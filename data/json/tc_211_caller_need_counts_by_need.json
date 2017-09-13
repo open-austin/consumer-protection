@@ -1,0 +1,6602 @@
+[
+  {
+    "Need": "Electric Service Payment Assistance",
+    "Count": 5756
+  },
+  {
+    "Need": "Rent Payment Assistance",
+    "Count": 5308
+  },
+  {
+    "Need": "Food Pantries",
+    "Count": 3880
+  },
+  {
+    "Need": "Low Income/Subsidized Private Rental Housing",
+    "Count": 2543
+  },
+  {
+    "Need": "Adult State/Local Health Insurance Programs",
+    "Count": 1339
+  },
+  {
+    "Need": "Low Cost Home Rental Listings",
+    "Count": 998
+  },
+  {
+    "Need": "Homeless Shelter",
+    "Count": 965
+  },
+  {
+    "Need": "Online Tax Preparation/E-Filing Sites",
+    "Count": 954
+  },
+  {
+    "Need": "VITA Program Sites",
+    "Count": 930
+  },
+  {
+    "Need": "Community Clinics",
+    "Count": 905
+  },
+  {
+    "Need": "Prescription Expense Assistance",
+    "Count": 902
+  },
+  {
+    "Need": "Child Care Expense Assistance",
+    "Count": 841
+  },
+  {
+    "Need": "Food Stamps/SNAP Applications",
+    "Count": 807
+  },
+  {
+    "Need": "General Dentistry",
+    "Count": 798
+  },
+  {
+    "Need": "Medical Appointments Transportation",
+    "Count": 749
+  },
+  {
+    "Need": "General Legal Aid",
+    "Count": 672
+  },
+  {
+    "Need": "Referral to Physicians Accepting Medicaid",
+    "Count": 576
+  },
+  {
+    "Need": "Holiday Gifts/Toys",
+    "Count": 572
+  },
+  {
+    "Need": "Directory Assistance",
+    "Count": 565
+  },
+  {
+    "Need": "Central Intake/Assessment for Mental Health Services",
+    "Count": 478
+  },
+  {
+    "Need": "Transitional Housing/Shelter",
+    "Count": 456
+  },
+  {
+    "Need": "In Home Attendants for People With Disabilities",
+    "Count": 432
+  },
+  {
+    "Need": "Bus Fare",
+    "Count": 403
+  },
+  {
+    "Need": "311 Services",
+    "Count": 397
+  },
+  {
+    "Need": "Tenant Rights Information/Counseling",
+    "Count": 381
+  },
+  {
+    "Need": "Social Security Numbers",
+    "Count": 371
+  },
+  {
+    "Need": "Housing Authorities",
+    "Count": 370
+  },
+  {
+    "Need": "Early Head Start",
+    "Count": 366
+  },
+  {
+    "Need": "Cell Phones",
+    "Count": 360
+  },
+  {
+    "Need": "Medicaid Applications",
+    "Count": 351
+  },
+  {
+    "Need": "In Person Assister Programs",
+    "Count": 316
+  },
+  {
+    "Need": "Rental Deposit Assistance",
+    "Count": 302
+  },
+  {
+    "Need": "Child Passenger Safety Seats",
+    "Count": 285
+  },
+  {
+    "Need": "Central Intake/Assessment for Drug Use Disorders",
+    "Count": 283
+  },
+  {
+    "Need": "Free School Supplies",
+    "Count": 276
+  },
+  {
+    "Need": "Medical Care Expense Assistance",
+    "Count": 274
+  },
+  {
+    "Need": "Gas Money",
+    "Count": 270
+  },
+  {
+    "Need": "Child Care Centers",
+    "Count": 253
+  },
+  {
+    "Need": "Water Service Payment Assistance",
+    "Count": 250
+  },
+  {
+    "Need": "Social Security Disability Insurance",
+    "Count": 231
+  },
+  {
+    "Need": "Gas Service Payment Assistance",
+    "Count": 226
+  },
+  {
+    "Need": "Home Maintenance and Minor Repair Services",
+    "Count": 225
+  },
+  {
+    "Need": "Glasses/Contact Lenses",
+    "Count": 202
+  },
+  {
+    "Need": "General Clothing Provision",
+    "Count": 200
+  },
+  {
+    "Need": "Diapers",
+    "Count": 196
+  },
+  {
+    "Need": "Thanksgiving Baskets",
+    "Count": 186
+  },
+  {
+    "Need": "Discounted Utility Services",
+    "Count": 183
+  },
+  {
+    "Need": "Section 8 Housing Choice Vouchers",
+    "Count": 175
+  },
+  {
+    "Need": "Child Care Provider Referrals",
+    "Count": 167
+  },
+  {
+    "Need": "WIC",
+    "Count": 166
+  },
+  {
+    "Need": "Birth Certificates",
+    "Count": 160
+  },
+  {
+    "Need": "Adult Protective Intervention/Investigation",
+    "Count": 157
+  },
+  {
+    "Need": "Child Support Assistance/Enforcement",
+    "Count": 151
+  },
+  {
+    "Need": "Motel Bill Payment Assistance",
+    "Count": 150
+  },
+  {
+    "Need": "Neighborhood Multipurpose Centers",
+    "Count": 149
+  },
+  {
+    "Need": "State Unemployment Insurance",
+    "Count": 146
+  },
+  {
+    "Need": "Fans",
+    "Count": 144
+  },
+  {
+    "Need": "Homelessness  Advocacy Groups",
+    "Count": 144
+  },
+  {
+    "Need": "Head Start",
+    "Count": 141
+  },
+  {
+    "Need": "Mortgage Payment Assistance",
+    "Count": 141
+  },
+  {
+    "Need": "Lawyer Referral Services",
+    "Count": 140
+  },
+  {
+    "Need": "Electric Service Providers",
+    "Count": 139
+  },
+  {
+    "Need": "Furniture",
+    "Count": 133
+  },
+  {
+    "Need": "General Acute Care Hospitals",
+    "Count": 133
+  },
+  {
+    "Need": "Home Delivered Meals",
+    "Count": 131
+  },
+  {
+    "Need": "General Benefits Assistance",
+    "Count": 129
+  },
+  {
+    "Need": "Health Insurance Marketplaces",
+    "Count": 123
+  },
+  {
+    "Need": "Domestic Violence Shelters",
+    "Count": 122
+  },
+  {
+    "Need": "Driver Licenses",
+    "Count": 122
+  },
+  {
+    "Need": "Identification Card Fee Payment Assistance",
+    "Count": 122
+  },
+  {
+    "Need": "Homeless Shelter * Men",
+    "Count": 121
+  },
+  {
+    "Need": "Food Vouchers",
+    "Count": 120
+  },
+  {
+    "Need": "Adolescent/Adult Immunizations",
+    "Count": 116
+  },
+  {
+    "Need": "Community Mental Health Agencies",
+    "Count": 116
+  },
+  {
+    "Need": "General Paratransit/Community Ride Programs",
+    "Count": 116
+  },
+  {
+    "Need": "Birth Certificate Fee Payment Assistance",
+    "Count": 115
+  },
+  {
+    "Need": "Homeless Families",
+    "Count": 115
+  },
+  {
+    "Need": "Childhood Immunizations",
+    "Count": 112
+  },
+  {
+    "Need": "Weatherization Programs",
+    "Count": 112
+  },
+  {
+    "Need": "At Risk/Homeless Housing Related Assistance Programs",
+    "Count": 110
+  },
+  {
+    "Need": "Individual Counseling",
+    "Count": 110
+  },
+  {
+    "Need": "Landlord/Tenant Dispute Resolution",
+    "Count": 109
+  },
+  {
+    "Need": "Assisted Living Facilities",
+    "Count": 107
+  },
+  {
+    "Need": "Certificates/Forms Assistance",
+    "Count": 105
+  },
+  {
+    "Need": "Public Housing",
+    "Count": 105
+  },
+  {
+    "Need": "Job Information",
+    "Count": 104
+  },
+  {
+    "Need": "Legal Counseling",
+    "Count": 104
+  },
+  {
+    "Need": "Wireless Service Providers",
+    "Count": 103
+  },
+  {
+    "Need": "Soup Kitchens",
+    "Count": 101
+  },
+  {
+    "Need": "Thrift Shops",
+    "Count": 101
+  },
+  {
+    "Need": "Disability Related Transportation",
+    "Count": 100
+  },
+  {
+    "Need": "Comprehensive Job Assistance Centers",
+    "Count": 99
+  },
+  {
+    "Need": "General Counseling Services",
+    "Count": 98
+  },
+  {
+    "Need": "Home Rehabilitation Services",
+    "Count": 95
+  },
+  {
+    "Need": "Residential Drug Use Disorder Treatment Facilities",
+    "Count": 93
+  },
+  {
+    "Need": "Senior Ride Programs",
+    "Count": 93
+  },
+  {
+    "Need": "General Federal Income Tax Information",
+    "Count": 92
+  },
+  {
+    "Need": "Central Intake/Assessment for Alcohol Use Disorder",
+    "Count": 91
+  },
+  {
+    "Need": "Divorce Assistance",
+    "Count": 91
+  },
+  {
+    "Need": "Household Goods Vouchers",
+    "Count": 91
+  },
+  {
+    "Need": "Voter Registration Offices",
+    "Count": 91
+  },
+  {
+    "Need": "Prescription Drug Patient Assistance Programs",
+    "Count": 90
+  },
+  {
+    "Need": "Animal Control",
+    "Count": 88
+  },
+  {
+    "Need": "Trash/Garbage Pickup",
+    "Count": 88
+  },
+  {
+    "Need": "Personal Finances/Tax Assistance Volunteer Opportunities",
+    "Count": 87
+  },
+  {
+    "Need": "Utility Disconnection Protection",
+    "Count": 86
+  },
+  {
+    "Need": "Benefits Screening",
+    "Count": 84
+  },
+  {
+    "Need": "Polling Places",
+    "Count": 83
+  },
+  {
+    "Need": "Long Term Case/Care Management",
+    "Count": 81
+  },
+  {
+    "Need": "Travel Directions/Trip Planning",
+    "Count": 81
+  },
+  {
+    "Need": "Pregnancy Testing",
+    "Count": 79
+  },
+  {
+    "Need": "Dentures",
+    "Count": 78
+  },
+  {
+    "Need": "211 Lead Agencies",
+    "Count": 77
+  },
+  {
+    "Need": "General Medical Equipment Provision",
+    "Count": 77
+  },
+  {
+    "Need": "Children's Protective Services",
+    "Count": 76
+  },
+  {
+    "Need": "Area Agencies on Aging",
+    "Count": 75
+  },
+  {
+    "Need": "Thanksgiving Meals",
+    "Count": 75
+  },
+  {
+    "Need": "Home Delivered Meals * Homebound",
+    "Count": 73
+  },
+  {
+    "Need": "Job Search/Placement",
+    "Count": 72
+  },
+  {
+    "Need": "School Districts",
+    "Count": 71
+  },
+  {
+    "Need": "English as a Second Language",
+    "Count": 70
+  },
+  {
+    "Need": "Specialized Information and Referral",
+    "Count": 69
+  },
+  {
+    "Need": "Clothing Vouchers",
+    "Count": 66
+  },
+  {
+    "Need": "GED/High School Equivalency Test Instruction",
+    "Count": 66
+  },
+  {
+    "Need": "Medicare Beneficiaries",
+    "Count": 64
+  },
+  {
+    "Need": "Post Offices",
+    "Count": 64
+  },
+  {
+    "Need": "Evacuation Transportation",
+    "Count": 63
+  },
+  {
+    "Need": "Child Custody/Visitation Assistance",
+    "Count": 62
+  },
+  {
+    "Need": "Inpatient Drug Detoxification",
+    "Count": 62
+  },
+  {
+    "Need": "Medicare Information/Counseling",
+    "Count": 62
+  },
+  {
+    "Need": "Inpatient Drug Use Disorder Treatment Facilities",
+    "Count": 61
+  },
+  {
+    "Need": "Medicaid Recipients",
+    "Count": 61
+  },
+  {
+    "Need": "Medicare Savings Programs",
+    "Count": 61
+  },
+  {
+    "Need": "Pest Control Services",
+    "Count": 60
+  },
+  {
+    "Need": "Utility Deposit Assistance",
+    "Count": 59
+  },
+  {
+    "Need": "County Correctional Facilities",
+    "Count": 58
+  },
+  {
+    "Need": "In Home Attendants for People  * Health Issues",
+    "Count": 58
+  },
+  {
+    "Need": "Municipal Police",
+    "Count": 57
+  },
+  {
+    "Need": "Burial/Cremation Expense Assistance",
+    "Count": 56
+  },
+  {
+    "Need": "General Physical Examinations",
+    "Count": 55
+  },
+  {
+    "Need": "Extended Child Care",
+    "Count": 54
+  },
+  {
+    "Need": "Supported Living Services for Adults With Disabilities",
+    "Count": 54
+  },
+  {
+    "Need": "Work Clothing",
+    "Count": 54
+  },
+  {
+    "Need": "Prenatal Care",
+    "Count": 53
+  },
+  {
+    "Need": "Disabilities Issues",
+    "Count": 52
+  },
+  {
+    "Need": "Rooming/Boarding Houses",
+    "Count": 52
+  },
+  {
+    "Need": "Family Counseling",
+    "Count": 51
+  },
+  {
+    "Need": "Baby Clothing",
+    "Count": 50
+  },
+  {
+    "Need": "Identification Cards",
+    "Count": 50
+  },
+  {
+    "Need": "Vocational Rehabilitation",
+    "Count": 50
+  },
+  {
+    "Need": "Advocacy",
+    "Count": 49
+  },
+  {
+    "Need": "Automobile Payment Assistance",
+    "Count": 49
+  },
+  {
+    "Need": "Mental Health Hotlines",
+    "Count": 49
+  },
+  {
+    "Need": "Election Information",
+    "Count": 48
+  },
+  {
+    "Need": "General Assessment for Substance Use Disorders",
+    "Count": 48
+  },
+  {
+    "Need": "Job Search Resource Centers",
+    "Count": 48
+  },
+  {
+    "Need": "Parenting Skills Classes",
+    "Count": 48
+  },
+  {
+    "Need": "Special Needs Registries",
+    "Count": 48
+  },
+  {
+    "Need": "Vision Screening",
+    "Count": 48
+  },
+  {
+    "Need": "Incontinence Supplies",
+    "Count": 47
+  },
+  {
+    "Need": "Individual Taxpayer Identification Numbers",
+    "Count": 47
+  },
+  {
+    "Need": "Preschools",
+    "Count": 47
+  },
+  {
+    "Need": "Psychiatric Mobile Response Teams",
+    "Count": 47
+  },
+  {
+    "Need": "Residential Alcohol Use Disorder Treatment Facilities",
+    "Count": 47
+  },
+  {
+    "Need": "Summer Food Service Programs",
+    "Count": 47
+  },
+  {
+    "Need": "Telephone Service Payment Assistance",
+    "Count": 47
+  },
+  {
+    "Need": "Transitional Case/Care Management",
+    "Count": 47
+  },
+  {
+    "Need": "Bathroom Modification Services",
+    "Count": 46
+  },
+  {
+    "Need": "Children's Clothing",
+    "Count": 46
+  },
+  {
+    "Need": "General Health Insurance Information/Counseling",
+    "Count": 46
+  },
+  {
+    "Need": "Referral to Dental Practitioners Accepting Medicaid",
+    "Count": 46
+  },
+  {
+    "Need": "Consulates/Foreign Government Representatives",
+    "Count": 45
+  },
+  {
+    "Need": "Domestic Violence Hotlines",
+    "Count": 45
+  },
+  {
+    "Need": "Formula/Baby Food",
+    "Count": 45
+  },
+  {
+    "Need": "Medical Records",
+    "Count": 45
+  },
+  {
+    "Need": "Well Animal Checkups",
+    "Count": 45
+  },
+  {
+    "Need": "Wheelchair Donation Programs",
+    "Count": 45
+  },
+  {
+    "Need": "Large Item Trash/Garbage Pickup",
+    "Count": 44
+  },
+  {
+    "Need": "Alcohol Use Disorder Support Groups",
+    "Count": 43
+  },
+  {
+    "Need": "Navigator Programs",
+    "Count": 43
+  },
+  {
+    "Need": "Personal Care",
+    "Count": 43
+  },
+  {
+    "Need": "Specialized Information and Re * Disabilities Issues",
+    "Count": 43
+  },
+  {
+    "Need": "Motor Vehicle Registration",
+    "Count": 42
+  },
+  {
+    "Need": "Contraception",
+    "Count": 41
+  },
+  {
+    "Need": "Consumer Fraud Reporting",
+    "Count": 40
+  },
+  {
+    "Need": "Ex-Offender Halfway Houses",
+    "Count": 40
+  },
+  {
+    "Need": "Summer Camps",
+    "Count": 40
+  },
+  {
+    "Need": "Wheelchairs/Wheeled Mobility",
+    "Count": 40
+  },
+  {
+    "Need": "Flu Vaccines",
+    "Count": 39
+  },
+  {
+    "Need": "Senior Centers",
+    "Count": 39
+  },
+  {
+    "Need": "AARP Tax Aide Program Sites",
+    "Count": 38
+  },
+  {
+    "Need": "Comprehensive Outpatient Drug Use Disorder Treatment",
+    "Count": 38
+  },
+  {
+    "Need": "Moving Expense Assistance",
+    "Count": 38
+  },
+  {
+    "Need": "Personal Alarm Systems",
+    "Count": 38
+  },
+  {
+    "Need": "Taxpayer Information Lines",
+    "Count": 38
+  },
+  {
+    "Need": "Donation Pickups",
+    "Count": 37
+  },
+  {
+    "Need": "Food Pantries * Older Adults",
+    "Count": 37
+  },
+  {
+    "Need": "Notary Public Services",
+    "Count": 37
+  },
+  {
+    "Need": "First Time Buyer Home Loans",
+    "Count": 36
+  },
+  {
+    "Need": "Hotels/Motels",
+    "Count": 36
+  },
+  {
+    "Need": "Inpatient Alcohol Use Disorder Treatment Facilities",
+    "Count": 36
+  },
+  {
+    "Need": "Legal Information Lines",
+    "Count": 35
+  },
+  {
+    "Need": "Suicide Prevention Hotlines",
+    "Count": 35
+  },
+  {
+    "Need": "Adult Protective Services",
+    "Count": 34
+  },
+  {
+    "Need": "Alcohol Detoxification",
+    "Count": 34
+  },
+  {
+    "Need": "Driver License Fee Payment Assistance",
+    "Count": 34
+  },
+  {
+    "Need": "Health Insurance Premium Assistance",
+    "Count": 34
+  },
+  {
+    "Need": "Police Reports",
+    "Count": 34
+  },
+  {
+    "Need": "State Medicaid Managed Care Enrollment Programs",
+    "Count": 34
+  },
+  {
+    "Need": "Adult Residential Care Homes",
+    "Count": 33
+  },
+  {
+    "Need": "Neuter/Spay Services",
+    "Count": 33
+  },
+  {
+    "Need": "Transitional Housing/Shelter * Single Mothers",
+    "Count": 33
+  },
+  {
+    "Need": "Automotive Repair and Maintenance",
+    "Count": 32
+  },
+  {
+    "Need": "SSI Applications",
+    "Count": 32
+  },
+  {
+    "Need": "State Government Complaints/Ombudsman Offices",
+    "Count": 32
+  },
+  {
+    "Need": "Adolescent/Youth Counseling",
+    "Count": 31
+  },
+  {
+    "Need": "Anger Management",
+    "Count": 31
+  },
+  {
+    "Need": "Computer and Related Technology Classes",
+    "Count": 31
+  },
+  {
+    "Need": "EBT Card Services",
+    "Count": 31
+  },
+  {
+    "Need": "Home Health Aide Services",
+    "Count": 31
+  },
+  {
+    "Need": "TANF Applications",
+    "Count": 31
+  },
+  {
+    "Need": "Civil State Trial Courts",
+    "Count": 30
+  },
+  {
+    "Need": "Emergency Road Service",
+    "Count": 30
+  },
+  {
+    "Need": "Housing Discrimination Assistance",
+    "Count": 30
+  },
+  {
+    "Need": "Local Bus Transit Services",
+    "Count": 30
+  },
+  {
+    "Need": "Maternity Homes",
+    "Count": 30
+  },
+  {
+    "Need": "Ramp Construction Services",
+    "Count": 30
+  },
+  {
+    "Need": "Sexually Transmitted Disease Screening",
+    "Count": 30
+  },
+  {
+    "Need": "Sheriff",
+    "Count": 30
+  },
+  {
+    "Need": "Bathing Facilities",
+    "Count": 29
+  },
+  {
+    "Need": "Crime Victim Compensation",
+    "Count": 29
+  },
+  {
+    "Need": "Elder/Dependent Adult Abuse Reporting",
+    "Count": 29
+  },
+  {
+    "Need": "General Crisis Intervention Hotlines",
+    "Count": 29
+  },
+  {
+    "Need": "Hearing Aids",
+    "Count": 29
+  },
+  {
+    "Need": "Older Adults",
+    "Count": 29
+  },
+  {
+    "Need": "Veteran Benefits Assistance",
+    "Count": 29
+  },
+  {
+    "Need": "Christmas Baskets",
+    "Count": 28
+  },
+  {
+    "Need": "Opioid Detoxification",
+    "Count": 28
+  },
+  {
+    "Need": "Passports",
+    "Count": 28
+  },
+  {
+    "Need": "Single Mothers",
+    "Count": 28
+  },
+  {
+    "Need": "Breast Pumps",
+    "Count": 27
+  },
+  {
+    "Need": "Homeless Women",
+    "Count": 27
+  },
+  {
+    "Need": "Public Libraries",
+    "Count": 27
+  },
+  {
+    "Need": "Recreation Centers",
+    "Count": 27
+  },
+  {
+    "Need": "Volunteer Recruitment/Placement",
+    "Count": 27
+  },
+  {
+    "Need": "Bedding/Linen",
+    "Count": 26
+  },
+  {
+    "Need": "Gynecology Services",
+    "Count": 26
+  },
+  {
+    "Need": "Homeless Men",
+    "Count": 26
+  },
+  {
+    "Need": "Non-Emergency Crime Reporting",
+    "Count": 26
+  },
+  {
+    "Need": "Small Claims Courts",
+    "Count": 26
+  },
+  {
+    "Need": "Active Arrest Warrants",
+    "Count": 25
+  },
+  {
+    "Need": "Adult Residential Treatment Facilities",
+    "Count": 25
+  },
+  {
+    "Need": "Animal Shelters",
+    "Count": 25
+  },
+  {
+    "Need": "Disability Parking Permits",
+    "Count": 25
+  },
+  {
+    "Need": "Homebuyer/Home Purchase Counseling",
+    "Count": 25
+  },
+  {
+    "Need": "Psychiatric Hospitals",
+    "Count": 25
+  },
+  {
+    "Need": "Social Security Retirement Benefits",
+    "Count": 25
+  },
+  {
+    "Need": "Transit Customer Service Centers",
+    "Count": 25
+  },
+  {
+    "Need": "Winter Clothing",
+    "Count": 25
+  },
+  {
+    "Need": "Affordable Care Act Qualified Health Plans",
+    "Count": 24
+  },
+  {
+    "Need": "Child Guidance",
+    "Count": 24
+  },
+  {
+    "Need": "Job Readiness",
+    "Count": 24
+  },
+  {
+    "Need": "Medicare Enrollment",
+    "Count": 24
+  },
+  {
+    "Need": "Christmas Clearing Bureaus",
+    "Count": 23
+  },
+  {
+    "Need": "Elderly/Disabled Home Rental Listings",
+    "Count": 23
+  },
+  {
+    "Need": "Group Residences for Adults With Disabilities",
+    "Count": 23
+  },
+  {
+    "Need": "Protective/Restraining Orders",
+    "Count": 23
+  },
+  {
+    "Need": "Psychiatric Disorder Counseling",
+    "Count": 23
+  },
+  {
+    "Need": "Referral to Physicians Accepting Medicare",
+    "Count": 23
+  },
+  {
+    "Need": "Semi-Independent Living Residences for Adults With Disabilities",
+    "Count": 23
+  },
+  {
+    "Need": "Water Service Providers",
+    "Count": 23
+  },
+  {
+    "Need": "Advocacy * Disabilities Issues",
+    "Count": 22
+  },
+  {
+    "Need": "Building Code Information",
+    "Count": 22
+  },
+  {
+    "Need": "Citizenship and Immigration Services Offices",
+    "Count": 22
+  },
+  {
+    "Need": "Dental Insurance",
+    "Count": 22
+  },
+  {
+    "Need": "Employment Discrimination Assistance",
+    "Count": 22
+  },
+  {
+    "Need": "Housekeeping Assistance",
+    "Count": 22
+  },
+  {
+    "Need": "Immigrants",
+    "Count": 22
+  },
+  {
+    "Need": "Mammograms",
+    "Count": 22
+  },
+  {
+    "Need": "Personal Financial Counseling",
+    "Count": 22
+  },
+  {
+    "Need": "Prescription Drug Discount Cards",
+    "Count": 22
+  },
+  {
+    "Need": "Smoke Alarms",
+    "Count": 22
+  },
+  {
+    "Need": "Christmas Meals",
+    "Count": 21
+  },
+  {
+    "Need": "CPR Instruction",
+    "Count": 21
+  },
+  {
+    "Need": "Food Handling Permits",
+    "Count": 21
+  },
+  {
+    "Need": "Medical Information Lines",
+    "Count": 21
+  },
+  {
+    "Need": "Outpatient Drug Detoxification",
+    "Count": 21
+  },
+  {
+    "Need": "Personal/Grooming Supplies",
+    "Count": 21
+  },
+  {
+    "Need": "Public Clinics",
+    "Count": 21
+  },
+  {
+    "Need": "Respite Care",
+    "Count": 21
+  },
+  {
+    "Need": "Sports Participation Physical Examinations",
+    "Count": 21
+  },
+  {
+    "Need": "Transitional Case/Care Managem * Homeless Families",
+    "Count": 21
+  },
+  {
+    "Need": "Transitional Case/Care Managem * Older Adults",
+    "Count": 21
+  },
+  {
+    "Need": "Child Support Wage Assignment Assistance",
+    "Count": 20
+  },
+  {
+    "Need": "Clinical Psychiatric Evaluation",
+    "Count": 20
+  },
+  {
+    "Need": "Eviction Prevention Legal Assistance",
+    "Count": 20
+  },
+  {
+    "Need": "Homeless Veterans",
+    "Count": 20
+  },
+  {
+    "Need": "In Person Crisis Intervention",
+    "Count": 20
+  },
+  {
+    "Need": "Mobile Veterinary Care",
+    "Count": 20
+  },
+  {
+    "Need": "Psychiatric Case Management",
+    "Count": 20
+  },
+  {
+    "Need": "Rabies Vaccinations",
+    "Count": 20
+  },
+  {
+    "Need": "Social Security Issues",
+    "Count": 20
+  },
+  {
+    "Need": "Women's Health Centers",
+    "Count": 20
+  },
+  {
+    "Need": "Child Abuse Hotlines",
+    "Count": 19
+  },
+  {
+    "Need": "Matricula Consular Cards",
+    "Count": 19
+  },
+  {
+    "Need": "Mold Abatement",
+    "Count": 19
+  },
+  {
+    "Need": "Section 8/Rental Assistance Program Rental Listings",
+    "Count": 19
+  },
+  {
+    "Need": "Adults With Disabilities",
+    "Count": 18
+  },
+  {
+    "Need": "Birth Control Counseling",
+    "Count": 18
+  },
+  {
+    "Need": "CHIP Programs",
+    "Count": 18
+  },
+  {
+    "Need": "Home Nursing",
+    "Count": 18
+  },
+  {
+    "Need": "Low Income/Subsidized Private  * Older Adults",
+    "Count": 18
+  },
+  {
+    "Need": "Minimum Wage/Hour Standards",
+    "Count": 18
+  },
+  {
+    "Need": "Adult Day Program Centers",
+    "Count": 17
+  },
+  {
+    "Need": "Career Counseling",
+    "Count": 17
+  },
+  {
+    "Need": "Child Care Provider Licensing",
+    "Count": 17
+  },
+  {
+    "Need": "Community Web Portals",
+    "Count": 17
+  },
+  {
+    "Need": "Drug Use Related Hotlines",
+    "Count": 17
+  },
+  {
+    "Need": "General Property Tax Information",
+    "Count": 17
+  },
+  {
+    "Need": "Long Term Home Health Care",
+    "Count": 17
+  },
+  {
+    "Need": "Medical Appointments Transport * Cancer",
+    "Count": 17
+  },
+  {
+    "Need": "Nursing Facility Referrals",
+    "Count": 17
+  },
+  {
+    "Need": "Psychiatrist Referrals",
+    "Count": 17
+  },
+  {
+    "Need": "Traffic/Parking Ticket Information/Advice",
+    "Count": 17
+  },
+  {
+    "Need": "At Risk Youth",
+    "Count": 16
+  },
+  {
+    "Need": "Conjoint Counseling",
+    "Count": 16
+  },
+  {
+    "Need": "Errand Running/Shopping Assistance",
+    "Count": 16
+  },
+  {
+    "Need": "Federal Health Insurance Marketplace Call Center/Website",
+    "Count": 16
+  },
+  {
+    "Need": "Food Stamps/SNAP Appeals/Complaints",
+    "Count": 16
+  },
+  {
+    "Need": "Heaters",
+    "Count": 16
+  },
+  {
+    "Need": "Homemaker Assistance",
+    "Count": 16
+  },
+  {
+    "Need": "Incidental Medical Expense Assistance",
+    "Count": 16
+  },
+  {
+    "Need": "Psychiatric Medication Monitoring",
+    "Count": 16
+  },
+  {
+    "Need": "Residential Tree Maintenance",
+    "Count": 16
+  },
+  {
+    "Need": "Residential Tree Removal",
+    "Count": 16
+  },
+  {
+    "Need": "Veterans",
+    "Count": 16
+  },
+  {
+    "Need": "Abortion Services",
+    "Count": 15
+  },
+  {
+    "Need": "Comprehensive Information and Referral",
+    "Count": 15
+  },
+  {
+    "Need": "Comprehensive Outpatient Alcohol Use Disorder Treatment",
+    "Count": 15
+  },
+  {
+    "Need": "Dental Care Expense Assistance",
+    "Count": 15
+  },
+  {
+    "Need": "Drug Use Disorder Support Groups",
+    "Count": 15
+  },
+  {
+    "Need": "Expectant/New Parent Assistance",
+    "Count": 15
+  },
+  {
+    "Need": "Immigration Issues",
+    "Count": 15
+  },
+  {
+    "Need": "Long Distance Bus Services",
+    "Count": 15
+  },
+  {
+    "Need": "Paternity/Maternity Establishment",
+    "Count": 15
+  },
+  {
+    "Need": "School Clothing",
+    "Count": 15
+  },
+  {
+    "Need": "Senior Community Service Employment Programs",
+    "Count": 15
+  },
+  {
+    "Need": "Tax Forms",
+    "Count": 15
+  },
+  {
+    "Need": "Will Preparation Assistance",
+    "Count": 15
+  },
+  {
+    "Need": "211 Administrative Entities",
+    "Count": 14
+  },
+  {
+    "Need": "Adult Literacy Programs",
+    "Count": 14
+  },
+  {
+    "Need": "Affordable Care Act Information/Counseling Personnel",
+    "Count": 14
+  },
+  {
+    "Need": "Better Business Bureaus",
+    "Count": 14
+  },
+  {
+    "Need": "Certified Application Counselor Programs",
+    "Count": 14
+  },
+  {
+    "Need": "Day Camps",
+    "Count": 14
+  },
+  {
+    "Need": "Day Labor",
+    "Count": 14
+  },
+  {
+    "Need": "Divorce/Custody/Support Issues",
+    "Count": 14
+  },
+  {
+    "Need": "General Clothing Donation Programs",
+    "Count": 14
+  },
+  {
+    "Need": "Homelessness Advocacy Groups",
+    "Count": 14
+  },
+  {
+    "Need": "State Attorneys General",
+    "Count": 14
+  },
+  {
+    "Need": "Undesignated Home Barrier Removal Services",
+    "Count": 14
+  },
+  {
+    "Need": "Undesignated Temporary Financial Assistance",
+    "Count": 14
+  },
+  {
+    "Need": "Air Conditioners",
+    "Count": 13
+  },
+  {
+    "Need": "Autism",
+    "Count": 13
+  },
+  {
+    "Need": "Bereavement Counseling",
+    "Count": 13
+  },
+  {
+    "Need": "Computer Distribution Programs",
+    "Count": 13
+  },
+  {
+    "Need": "Credit Counseling",
+    "Count": 13
+  },
+  {
+    "Need": "Disability Rights Groups",
+    "Count": 13
+  },
+  {
+    "Need": "Electric Service Complaints",
+    "Count": 13
+  },
+  {
+    "Need": "FEMA Disaster Assistance Online/Tele-Registration",
+    "Count": 13
+  },
+  {
+    "Need": "General Crime Reporting",
+    "Count": 13
+  },
+  {
+    "Need": "Government Buildings/Installations",
+    "Count": 13
+  },
+  {
+    "Need": "Independent Living Communities/Complexes",
+    "Count": 13
+  },
+  {
+    "Need": "Marriage Counseling",
+    "Count": 13
+  },
+  {
+    "Need": "Medical Supplies Donation Programs",
+    "Count": 13
+  },
+  {
+    "Need": "Pap Tests",
+    "Count": 13
+  },
+  {
+    "Need": "Recycling Centers",
+    "Count": 13
+  },
+  {
+    "Need": "Ride Sharing Programs",
+    "Count": 13
+  },
+  {
+    "Need": "Senior Housing Information and Referral",
+    "Count": 13
+  },
+  {
+    "Need": "Temporary Mailing Address",
+    "Count": 13
+  },
+  {
+    "Need": "Adult Parole",
+    "Count": 12
+  },
+  {
+    "Need": "Anger Management * Spouse/Intimate Partner Abuser",
+    "Count": 12
+  },
+  {
+    "Need": "Animal Adoption",
+    "Count": 12
+  },
+  {
+    "Need": "Building Code Violations Reporting",
+    "Count": 12
+  },
+  {
+    "Need": "Camp Referrals",
+    "Count": 12
+  },
+  {
+    "Need": "Hazardous Materials Collection Sites",
+    "Count": 12
+  },
+  {
+    "Need": "Homelessness Prevention Programs",
+    "Count": 12
+  },
+  {
+    "Need": "Independent Living Skills Instruction",
+    "Count": 12
+  },
+  {
+    "Need": "Labor and Employment Law",
+    "Count": 12
+  },
+  {
+    "Need": "Legal Representation",
+    "Count": 12
+  },
+  {
+    "Need": "Mail Order Pharmacies",
+    "Count": 12
+  },
+  {
+    "Need": "Name Change Assistance",
+    "Count": 12
+  },
+  {
+    "Need": "Nursing Facility Complaints",
+    "Count": 12
+  },
+  {
+    "Need": "Pest Information",
+    "Count": 12
+  },
+  {
+    "Need": "Refugee Resettlement Services",
+    "Count": 12
+  },
+  {
+    "Need": "Residential Energy/Water Conservation Rebates",
+    "Count": 12
+  },
+  {
+    "Need": "Sexually Transmitted Disease Treatment",
+    "Count": 12
+  },
+  {
+    "Need": "Small Kitchen Appliances",
+    "Count": 12
+  },
+  {
+    "Need": "Tuberculosis Screening",
+    "Count": 12
+  },
+  {
+    "Need": "Adult Basic Education",
+    "Count": 11
+  },
+  {
+    "Need": "Adult Residential Facility Complaints",
+    "Count": 11
+  },
+  {
+    "Need": "Aging and Disability Resource Centers",
+    "Count": 11
+  },
+  {
+    "Need": "At Risk Families",
+    "Count": 11
+  },
+  {
+    "Need": "Automobiles",
+    "Count": 11
+  },
+  {
+    "Need": "Diabetes",
+    "Count": 11
+  },
+  {
+    "Need": "Kitchenware",
+    "Count": 11
+  },
+  {
+    "Need": "Labor Issues",
+    "Count": 11
+  },
+  {
+    "Need": "Medication Disposal",
+    "Count": 11
+  },
+  {
+    "Need": "Motor Vehicle Titles",
+    "Count": 11
+  },
+  {
+    "Need": "Pet Food",
+    "Count": 11
+  },
+  {
+    "Need": "Physician/Surgeon Complaints",
+    "Count": 11
+  },
+  {
+    "Need": "Property Tax Agencies",
+    "Count": 11
+  },
+  {
+    "Need": "Sanitary Landfills",
+    "Count": 11
+  },
+  {
+    "Need": "Shoes",
+    "Count": 11
+  },
+  {
+    "Need": "Skilled Nursing Facilities",
+    "Count": 11
+  },
+  {
+    "Need": "Small Business Development",
+    "Count": 11
+  },
+  {
+    "Need": "Special Education Advocacy",
+    "Count": 11
+  },
+  {
+    "Need": "Temporary Employment",
+    "Count": 11
+  },
+  {
+    "Need": "Alcohol Use Related Hotlines",
+    "Count": 10
+  },
+  {
+    "Need": "Automobile Insurance",
+    "Count": 10
+  },
+  {
+    "Need": "Barrier Free Home Rental Listings",
+    "Count": 10
+  },
+  {
+    "Need": "Bipolar Disorder",
+    "Count": 10
+  },
+  {
+    "Need": "Child Support Petition Filing Offices",
+    "Count": 10
+  },
+  {
+    "Need": "Children's State/Local Health Insurance Programs",
+    "Count": 10
+  },
+  {
+    "Need": "CHIP Recipients",
+    "Count": 10
+  },
+  {
+    "Need": "City Government Information Lines",
+    "Count": 10
+  },
+  {
+    "Need": "City/Town Council Offices",
+    "Count": 10
+  },
+  {
+    "Need": "Community Courts",
+    "Count": 10
+  },
+  {
+    "Need": "Donation Drop Off Points",
+    "Count": 10
+  },
+  {
+    "Need": "Foster Care/Temporary Shelter for Animals",
+    "Count": 10
+  },
+  {
+    "Need": "General Crime Victim Assistance",
+    "Count": 10
+  },
+  {
+    "Need": "Government Subsidized Private Rental Housing Listings",
+    "Count": 10
+  },
+  {
+    "Need": "Heating Fuel Payment Assistance",
+    "Count": 10
+  },
+  {
+    "Need": "Immigrant Benefits Assistance",
+    "Count": 10
+  },
+  {
+    "Need": "In Home Adult Day Programs",
+    "Count": 10
+  },
+  {
+    "Need": "Major Depression",
+    "Count": 10
+  },
+  {
+    "Need": "Natural Gas Service Providers",
+    "Count": 10
+  },
+  {
+    "Need": "Naturalization Support/Legal Services",
+    "Count": 10
+  },
+  {
+    "Need": "Physician Referral Services",
+    "Count": 10
+  },
+  {
+    "Need": "Residential Recycling Programs",
+    "Count": 10
+  },
+  {
+    "Need": "Smoking Cessation",
+    "Count": 10
+  },
+  {
+    "Need": "Spouse/Intimate Partner Abuse Counseling",
+    "Count": 10
+  },
+  {
+    "Need": "Subject Tutoring",
+    "Count": 10
+  },
+  {
+    "Need": "Utility Line Location Information/811 Services",
+    "Count": 10
+  },
+  {
+    "Need": "Veteran Outpatient Clinics",
+    "Count": 10
+  },
+  {
+    "Need": "Visual Impairments",
+    "Count": 10
+  },
+  {
+    "Need": "Voter Registration Drives",
+    "Count": 10
+  },
+  {
+    "Need": "Absentee Ballots",
+    "Count": 9
+  },
+  {
+    "Need": "Automobile Donation Programs",
+    "Count": 9
+  },
+  {
+    "Need": "Blood Banks",
+    "Count": 9
+  },
+  {
+    "Need": "Citizenship Test Preparation",
+    "Count": 9
+  },
+  {
+    "Need": "County Clerk of the Courts Offices",
+    "Count": 9
+  },
+  {
+    "Need": "Dental Schools",
+    "Count": 9
+  },
+  {
+    "Need": "Domestic Violence Support Groups",
+    "Count": 9
+  },
+  {
+    "Need": "Ex-Offender Employment Programs",
+    "Count": 9
+  },
+  {
+    "Need": "Ex-Offender Reentry Programs",
+    "Count": 9
+  },
+  {
+    "Need": "Fire Stations",
+    "Count": 9
+  },
+  {
+    "Need": "Grandparents",
+    "Count": 9
+  },
+  {
+    "Need": "Hospice Facilities",
+    "Count": 9
+  },
+  {
+    "Need": "Housing Down Payment Loans/Grants",
+    "Count": 9
+  },
+  {
+    "Need": "Identity Theft Reporting/Recovery Programs",
+    "Count": 9
+  },
+  {
+    "Need": "Low Income Home Loans",
+    "Count": 9
+  },
+  {
+    "Need": "Medicaid Appeals/Complaints",
+    "Count": 9
+  },
+  {
+    "Need": "Mental Health Related Support Groups",
+    "Count": 9
+  },
+  {
+    "Need": "Psychiatric Emergency Room Care",
+    "Count": 9
+  },
+  {
+    "Need": "Public Parks",
+    "Count": 9
+  },
+  {
+    "Need": "Refrigerators",
+    "Count": 9
+  },
+  {
+    "Need": "Retail Pharmacies",
+    "Count": 9
+  },
+  {
+    "Need": "Shower/Bath Seats",
+    "Count": 9
+  },
+  {
+    "Need": "Suicide Counseling",
+    "Count": 9
+  },
+  {
+    "Need": "Swimming Facilities",
+    "Count": 9
+  },
+  {
+    "Need": "Toll Road/Bridge Passes",
+    "Count": 9
+  },
+  {
+    "Need": "Transitional Housing/Shelter * Immigrants",
+    "Count": 9
+  },
+  {
+    "Need": "Ultrasound Scanning",
+    "Count": 9
+  },
+  {
+    "Need": "911 Services",
+    "Count": 8
+  },
+  {
+    "Need": "Abandoned Vehicle Reporting/Removal",
+    "Count": 8
+  },
+  {
+    "Need": "Acquired Brain Injuries",
+    "Count": 8
+  },
+  {
+    "Need": "Adult Probation",
+    "Count": 8
+  },
+  {
+    "Need": "Business Tax Information",
+    "Count": 8
+  },
+  {
+    "Need": "Case/Care Management Referrals",
+    "Count": 8
+  },
+  {
+    "Need": "Criminal History Records",
+    "Count": 8
+  },
+  {
+    "Need": "Diabetes Screening",
+    "Count": 8
+  },
+  {
+    "Need": "Diapers * Adults",
+    "Count": 8
+  },
+  {
+    "Need": "Domestic Violence Motel Vouchers",
+    "Count": 8
+  },
+  {
+    "Need": "Dual Diagnosis",
+    "Count": 8
+  },
+  {
+    "Need": "Employment Related Fingerprinting",
+    "Count": 8
+  },
+  {
+    "Need": "Financial Management Workshops",
+    "Count": 8
+  },
+  {
+    "Need": "Food Donation Programs",
+    "Count": 8
+  },
+  {
+    "Need": "Food Stamps/SNAP Fraud Reporting",
+    "Count": 8
+  },
+  {
+    "Need": "General Consumer Complaints",
+    "Count": 8
+  },
+  {
+    "Need": "Health and Residential Facility Evaluation Information",
+    "Count": 8
+  },
+  {
+    "Need": "HIV Testing",
+    "Count": 8
+  },
+  {
+    "Need": "House Moving Assistance",
+    "Count": 8
+  },
+  {
+    "Need": "Immigrant Visa Application Filing Assistance",
+    "Count": 8
+  },
+  {
+    "Need": "Language Interpretation",
+    "Count": 8
+  },
+  {
+    "Need": "Laundry Facilities",
+    "Count": 8
+  },
+  {
+    "Need": "Social Security Burial Benefits",
+    "Count": 8
+  },
+  {
+    "Need": "Summer Youth Employment Programs",
+    "Count": 8
+  },
+  {
+    "Need": "Transitional Case/Care Managem * Homeless Men",
+    "Count": 8
+  },
+  {
+    "Need": "Walking Aid Donation Programs",
+    "Count": 8
+  },
+  {
+    "Need": "Automobile Insurance Payment Assistance",
+    "Count": 7
+  },
+  {
+    "Need": "Bankruptcy Assistance",
+    "Count": 7
+  },
+  {
+    "Need": "Child Custody/Visitation Petition Filing Offices",
+    "Count": 7
+  },
+  {
+    "Need": "Civil Rights Issues",
+    "Count": 7
+  },
+  {
+    "Need": "Comprehensive Outpatient Drug  * At Risk Youth",
+    "Count": 7
+  },
+  {
+    "Need": "Congregate Meals/Nutrition Sites",
+    "Count": 7
+  },
+  {
+    "Need": "Crime Victims",
+    "Count": 7
+  },
+  {
+    "Need": "Criminal Law",
+    "Count": 7
+  },
+  {
+    "Need": "Developmental Assessment",
+    "Count": 7
+  },
+  {
+    "Need": "Divorce Records",
+    "Count": 7
+  },
+  {
+    "Need": "Do Not Call Registries",
+    "Count": 7
+  },
+  {
+    "Need": "Driving/Accident Records",
+    "Count": 7
+  },
+  {
+    "Need": "Drug Use Disorder Education/Prevention",
+    "Count": 7
+  },
+  {
+    "Need": "Education Related Fee Payment Assistance",
+    "Count": 7
+  },
+  {
+    "Need": "Electric Service Payment Assis * National Guard Personnel",
+    "Count": 7
+  },
+  {
+    "Need": "Hairdressing/Nail Care",
+    "Count": 7
+  },
+  {
+    "Need": "Home Rehabilitation Grants",
+    "Count": 7
+  },
+  {
+    "Need": "Homeless School Transition Programs",
+    "Count": 7
+  },
+  {
+    "Need": "Immigrant Rights Groups",
+    "Count": 7
+  },
+  {
+    "Need": "Insulin Injection Supplies",
+    "Count": 7
+  },
+  {
+    "Need": "Job Search/Placement * Older Adults",
+    "Count": 7
+  },
+  {
+    "Need": "Job Training Formats",
+    "Count": 7
+  },
+  {
+    "Need": "Law Libraries",
+    "Count": 7
+  },
+  {
+    "Need": "Lawyer Complaints",
+    "Count": 7
+  },
+  {
+    "Need": "Legal Issues",
+    "Count": 7
+  },
+  {
+    "Need": "Local Business Licenses/Permits",
+    "Count": 7
+  },
+  {
+    "Need": "Motor Vehicle Inspection Programs",
+    "Count": 7
+  },
+  {
+    "Need": "Organizational Consultation/Technical Assistance",
+    "Count": 7
+  },
+  {
+    "Need": "Pregnant Women",
+    "Count": 7
+  },
+  {
+    "Need": "Public Facility Health Inspection",
+    "Count": 7
+  },
+  {
+    "Need": "Representative Payee Services",
+    "Count": 7
+  },
+  {
+    "Need": "Scholarships",
+    "Count": 7
+  },
+  {
+    "Need": "Single Women",
+    "Count": 7
+  },
+  {
+    "Need": "Sober Living Homes for People Recovering From a Drug Use Disorder",
+    "Count": 7
+  },
+  {
+    "Need": "Special Education Assessment",
+    "Count": 7
+  },
+  {
+    "Need": "Specialized Information and Re * Cancer",
+    "Count": 7
+  },
+  {
+    "Need": "Street Lights",
+    "Count": 7
+  },
+  {
+    "Need": "Television Stations/Access Systems",
+    "Count": 7
+  },
+  {
+    "Need": "Vocational Centers",
+    "Count": 7
+  },
+  {
+    "Need": "Adoption Legal Services",
+    "Count": 6
+  },
+  {
+    "Need": "Adult Mentoring Programs",
+    "Count": 6
+  },
+  {
+    "Need": "Alien Registration Card Issuance/Renewal",
+    "Count": 6
+  },
+  {
+    "Need": "Attention Deficit/Hyperactivity Disorder",
+    "Count": 6
+  },
+  {
+    "Need": "Bicycle Donation Programs",
+    "Count": 6
+  },
+  {
+    "Need": "Breast Cancer",
+    "Count": 6
+  },
+  {
+    "Need": "Cancer",
+    "Count": 6
+  },
+  {
+    "Need": "Children's Hospitals",
+    "Count": 6
+  },
+  {
+    "Need": "County Recorder Offices",
+    "Count": 6
+  },
+  {
+    "Need": "Criminal Background Check Fee Payment Assistance",
+    "Count": 6
+  },
+  {
+    "Need": "Dead Animal Pickup",
+    "Count": 6
+  },
+  {
+    "Need": "Death Certificates",
+    "Count": 6
+  },
+  {
+    "Need": "Domestic/Family Violence Legal Services",
+    "Count": 6
+  },
+  {
+    "Need": "Ex-Offenders",
+    "Count": 6
+  },
+  {
+    "Need": "Extreme Cold Weather Shelters",
+    "Count": 6
+  },
+  {
+    "Need": "Farmers Markets",
+    "Count": 6
+  },
+  {
+    "Need": "First Time Homebuyer Tax Credit Information",
+    "Count": 6
+  },
+  {
+    "Need": "GED/High School Equivalency Test Sites",
+    "Count": 6
+  },
+  {
+    "Need": "General Bereavement Support Groups",
+    "Count": 6
+  },
+  {
+    "Need": "General Yard Work",
+    "Count": 6
+  },
+  {
+    "Need": "Health Facility Licensing",
+    "Count": 6
+  },
+  {
+    "Need": "Homeless Mentally Ill",
+    "Count": 6
+  },
+  {
+    "Need": "Homeless Youth",
+    "Count": 6
+  },
+  {
+    "Need": "Household Goods Donation Programs",
+    "Count": 6
+  },
+  {
+    "Need": "Housing Search Assistance",
+    "Count": 6
+  },
+  {
+    "Need": "Infant Care Centers",
+    "Count": 6
+  },
+  {
+    "Need": "Insurance Complaints",
+    "Count": 6
+  },
+  {
+    "Need": "Intermediate Care Facilities for Individuals With Developmental Disabilities",
+    "Count": 6
+  },
+  {
+    "Need": "Kindergartens",
+    "Count": 6
+  },
+  {
+    "Need": "Life Skills Education",
+    "Count": 6
+  },
+  {
+    "Need": "Marriage Licenses",
+    "Count": 6
+  },
+  {
+    "Need": "Meningitis Immunizations",
+    "Count": 6
+  },
+  {
+    "Need": "Mental Health Issues",
+    "Count": 6
+  },
+  {
+    "Need": "Mortgage Delinquency and Default Counseling",
+    "Count": 6
+  },
+  {
+    "Need": "Public Parking",
+    "Count": 6
+  },
+  {
+    "Need": "Rent Payment Assistance * National Guard Personnel",
+    "Count": 6
+  },
+  {
+    "Need": "Residential Brush Clearance",
+    "Count": 6
+  },
+  {
+    "Need": "Resume Preparation Assistance",
+    "Count": 6
+  },
+  {
+    "Need": "Specialized Information and Re * Older Adults",
+    "Count": 6
+  },
+  {
+    "Need": "Specialized Information and Re * Pregnant Women",
+    "Count": 6
+  },
+  {
+    "Need": "Student Loan Forgiveness/Repayment Programs",
+    "Count": 6
+  },
+  {
+    "Need": "Sweat Equity Programs",
+    "Count": 6
+  },
+  {
+    "Need": "Transitional Case/Care Managem * Homeless Women",
+    "Count": 6
+  },
+  {
+    "Need": "Zoning Violations Reporting",
+    "Count": 6
+  },
+  {
+    "Need": "ADA Implementation Assistance",
+    "Count": 5
+  },
+  {
+    "Need": "Adult Foster Homes",
+    "Count": 5
+  },
+  {
+    "Need": "Air Pollution Control",
+    "Count": 5
+  },
+  {
+    "Need": "Appliance Repair",
+    "Count": 5
+  },
+  {
+    "Need": "Blindness",
+    "Count": 5
+  },
+  {
+    "Need": "Children and Youth With Disabilities",
+    "Count": 5
+  },
+  {
+    "Need": "Children's/Adolescent Residential Treatment Facilities",
+    "Count": 5
+  },
+  {
+    "Need": "Civil Marriages",
+    "Count": 5
+  },
+  {
+    "Need": "County Elections Director Offices",
+    "Count": 5
+  },
+  {
+    "Need": "Court Community Service Sites",
+    "Count": 5
+  },
+  {
+    "Need": "Court Ordered Parenting Programs",
+    "Count": 5
+  },
+  {
+    "Need": "Court Records",
+    "Count": 5
+  },
+  {
+    "Need": "Credit Report Ordering Assistance",
+    "Count": 5
+  },
+  {
+    "Need": "Cruelty to Animals Investigation",
+    "Count": 5
+  },
+  {
+    "Need": "Daily Money Management Services",
+    "Count": 5
+  },
+  {
+    "Need": "Dermatology",
+    "Count": 5
+  },
+  {
+    "Need": "Dietitian/Nutritionist Referrals",
+    "Count": 5
+  },
+  {
+    "Need": "Disaster Specific Home Repair",
+    "Count": 5
+  },
+  {
+    "Need": "Disease/Disability Information",
+    "Count": 5
+  },
+  {
+    "Need": "Drug/Alcohol Testing",
+    "Count": 5
+  },
+  {
+    "Need": "Electric Service Maintenance/Repair",
+    "Count": 5
+  },
+  {
+    "Need": "Employment Related Advocacy Groups",
+    "Count": 5
+  },
+  {
+    "Need": "Eye Care Expense Assistance",
+    "Count": 5
+  },
+  {
+    "Need": "Families of Veterans",
+    "Count": 5
+  },
+  {
+    "Need": "Family and Community Medicine",
+    "Count": 5
+  },
+  {
+    "Need": "Federal Bureau of Investigation",
+    "Count": 5
+  },
+  {
+    "Need": "Flood/Siltation Control",
+    "Count": 5
+  },
+  {
+    "Need": "Foster Grandparent Program",
+    "Count": 5
+  },
+  {
+    "Need": "Get Out the Vote Drives",
+    "Count": 5
+  },
+  {
+    "Need": "Guardianship Assistance",
+    "Count": 5
+  },
+  {
+    "Need": "Home Care/Hospice Associations",
+    "Count": 5
+  },
+  {
+    "Need": "In Home Attendants for People  * Physical Disabilities",
+    "Count": 5
+  },
+  {
+    "Need": "Inpatient Rehabilitation",
+    "Count": 5
+  },
+  {
+    "Need": "Intellectual Disabilities",
+    "Count": 5
+  },
+  {
+    "Need": "Internet Access/Security",
+    "Count": 5
+  },
+  {
+    "Need": "Language Translation",
+    "Count": 5
+  },
+  {
+    "Need": "Liquid Nutrition Supplements",
+    "Count": 5
+  },
+  {
+    "Need": "Local Transit Passes",
+    "Count": 5
+  },
+  {
+    "Need": "Long Term Case/Care Management * Attention Deficit/Hyperactivit",
+    "Count": 5
+  },
+  {
+    "Need": "Long Term Case/Care Management * Developmental Disabilities",
+    "Count": 5
+  },
+  {
+    "Need": "Long Term Case/Care Management * Mental Health Issues",
+    "Count": 5
+  },
+  {
+    "Need": "Marshals Offices",
+    "Count": 5
+  },
+  {
+    "Need": "Mediation * Housing Issues",
+    "Count": 5
+  },
+  {
+    "Need": "Medical Care Expense Assistanc * Visual Impairments",
+    "Count": 5
+  },
+  {
+    "Need": "Medicare Card Replacement",
+    "Count": 5
+  },
+  {
+    "Need": "Missing Persons Location Assistance",
+    "Count": 5
+  },
+  {
+    "Need": "Occupational/Professional Licensing and Certification",
+    "Count": 5
+  },
+  {
+    "Need": "Older Adult Social Clubs",
+    "Count": 5
+  },
+  {
+    "Need": "Pain Management",
+    "Count": 5
+  },
+  {
+    "Need": "Pediatric Dentistry",
+    "Count": 5
+  },
+  {
+    "Need": "Perinatal/Postpartum Depression Counseling",
+    "Count": 5
+  },
+  {
+    "Need": "Physical Therapy",
+    "Count": 5
+  },
+  {
+    "Need": "Post Disaster Cleanup Crews",
+    "Count": 5
+  },
+  {
+    "Need": "Post Disaster Crisis Hotlines",
+    "Count": 5
+  },
+  {
+    "Need": "Post Disaster Housing Databanks/Referrals",
+    "Count": 5
+  },
+  {
+    "Need": "Pre-Employment Background Checks",
+    "Count": 5
+  },
+  {
+    "Need": "Private Clinics",
+    "Count": 5
+  },
+  {
+    "Need": "Relapse Prevention Programs",
+    "Count": 5
+  },
+  {
+    "Need": "Residential Energy/Water Conservation Systems/Devices",
+    "Count": 5
+  },
+  {
+    "Need": "Secondary/High Schools",
+    "Count": 5
+  },
+  {
+    "Need": "Sewer System Maintenance",
+    "Count": 5
+  },
+  {
+    "Need": "Sexual Assault Counseling",
+    "Count": 5
+  },
+  {
+    "Need": "Sick Animal Care",
+    "Count": 5
+  },
+  {
+    "Need": "Sober Living Homes for People Recovering From an Alcohol Use Disorder",
+    "Count": 5
+  },
+  {
+    "Need": "Specialized Information and Re * Mexican Community",
+    "Count": 5
+  },
+  {
+    "Need": "Speech Therapy",
+    "Count": 5
+  },
+  {
+    "Need": "Sports Medicine",
+    "Count": 5
+  },
+  {
+    "Need": "Student Transportation Services",
+    "Count": 5
+  },
+  {
+    "Need": "Tax Appeals Filing Assistance",
+    "Count": 5
+  },
+  {
+    "Need": "Traffic Courts",
+    "Count": 5
+  },
+  {
+    "Need": "Vaccine Information",
+    "Count": 5
+  },
+  {
+    "Need": "Veterinary Referral Services",
+    "Count": 5
+  },
+  {
+    "Need": "Wildlife Rescue/Relocation",
+    "Count": 5
+  },
+  {
+    "Need": "Abused Adults",
+    "Count": 4
+  },
+  {
+    "Need": "Abused Children",
+    "Count": 4
+  },
+  {
+    "Need": "Academic Records",
+    "Count": 4
+  },
+  {
+    "Need": "Accessibility Related Standards/Legislation Compliance",
+    "Count": 4
+  },
+  {
+    "Need": "Adult Day Program Complaints",
+    "Count": 4
+  },
+  {
+    "Need": "Adult/Child Mentoring Programs",
+    "Count": 4
+  },
+  {
+    "Need": "Advocacy * Mexican Community",
+    "Count": 4
+  },
+  {
+    "Need": "Advocacy * Tax Issues",
+    "Count": 4
+  },
+  {
+    "Need": "Aging/Long Term Care Facility Associations",
+    "Count": 4
+  },
+  {
+    "Need": "Ambulance Services",
+    "Count": 4
+  },
+  {
+    "Need": "Audiological Evaluations",
+    "Count": 4
+  },
+  {
+    "Need": "Baggage Check Facilities",
+    "Count": 4
+  },
+  {
+    "Need": "Blood Tests",
+    "Count": 4
+  },
+  {
+    "Need": "Boys/Girls Clubs",
+    "Count": 4
+  },
+  {
+    "Need": "Brain Injury Rehabilitation",
+    "Count": 4
+  },
+  {
+    "Need": "Childbirth Education",
+    "Count": 4
+  },
+  {
+    "Need": "Christmas Tree Recycling",
+    "Count": 4
+  },
+  {
+    "Need": "College/University Admissions",
+    "Count": 4
+  },
+  {
+    "Need": "Community Disaster Service Centers/Hotlines",
+    "Count": 4
+  },
+  {
+    "Need": "Comprehensive Immigration/Naturalization Services",
+    "Count": 4
+  },
+  {
+    "Need": "Comprehensive Outpatient Alcoh * At Risk Youth",
+    "Count": 4
+  },
+  {
+    "Need": "Constitutional/Civil Rights Groups",
+    "Count": 4
+  },
+  {
+    "Need": "Consumer Education",
+    "Count": 4
+  },
+  {
+    "Need": "County Government Information Lines",
+    "Count": 4
+  },
+  {
+    "Need": "Court Ordered Individuals",
+    "Count": 4
+  },
+  {
+    "Need": "Criminal State Trial Courts",
+    "Count": 4
+  },
+  {
+    "Need": "Daily Living Aids",
+    "Count": 4
+  },
+  {
+    "Need": "Debt Consolidation Services",
+    "Count": 4
+  },
+  {
+    "Need": "Disaster Victims",
+    "Count": 4
+  },
+  {
+    "Need": "District Attorney",
+    "Count": 4
+  },
+  {
+    "Need": "Divorce Petition Filing Offices",
+    "Count": 4
+  },
+  {
+    "Need": "Domestic Violence Intervention Programs",
+    "Count": 4
+  },
+  {
+    "Need": "Driving Safety Education",
+    "Count": 4
+  },
+  {
+    "Need": "Drug Use Disorder Counseling",
+    "Count": 4
+  },
+  {
+    "Need": "Drug Use Disorder Issues",
+    "Count": 4
+  },
+  {
+    "Need": "Drug Use Related Recovery Homes/Halfway Houses",
+    "Count": 4
+  },
+  {
+    "Need": "Drug/Alcohol Use Self Evaluation Tools",
+    "Count": 4
+  },
+  {
+    "Need": "Early Intervention for Children With Disabilities/Delays",
+    "Count": 4
+  },
+  {
+    "Need": "Energy Conservation",
+    "Count": 4
+  },
+  {
+    "Need": "Epilepsy",
+    "Count": 4
+  },
+  {
+    "Need": "Escort Programs",
+    "Count": 4
+  },
+  {
+    "Need": "Eye Examinations",
+    "Count": 4
+  },
+  {
+    "Need": "Families/Friends of Individuals With an Alcohol Use Disorder Support Groups",
+    "Count": 4
+  },
+  {
+    "Need": "Federal Tax Collection Agencies",
+    "Count": 4
+  },
+  {
+    "Need": "Food Stamps/SNAP Recipients",
+    "Count": 4
+  },
+  {
+    "Need": "Foreclosure Prevention Loan Modification/Refinancing Programs",
+    "Count": 4
+  },
+  {
+    "Need": "Foster Home Placement",
+    "Count": 4
+  },
+  {
+    "Need": "General Benefits Assistance * Medicare Beneficiaries",
+    "Count": 4
+  },
+  {
+    "Need": "General Health Education Programs",
+    "Count": 4
+  },
+  {
+    "Need": "Grocery Ordering/Delivery",
+    "Count": 4
+  },
+  {
+    "Need": "Health Issues",
+    "Count": 4
+  },
+  {
+    "Need": "Holiday Donations",
+    "Count": 4
+  },
+  {
+    "Need": "Home Health Care Complaints",
+    "Count": 4
+  },
+  {
+    "Need": "Hospital Complaints",
+    "Count": 4
+  },
+  {
+    "Need": "Identity Theft Victims",
+    "Count": 4
+  },
+  {
+    "Need": "Job Information * Older Adults",
+    "Count": 4
+  },
+  {
+    "Need": "Juvenile Detention Facilities",
+    "Count": 4
+  },
+  {
+    "Need": "Legal Associations",
+    "Count": 4
+  },
+  {
+    "Need": "Legislators",
+    "Count": 4
+  },
+  {
+    "Need": "Leukemia",
+    "Count": 4
+  },
+  {
+    "Need": "Managed Health Care Information",
+    "Count": 4
+  },
+  {
+    "Need": "Medicaid Card Replacement",
+    "Count": 4
+  },
+  {
+    "Need": "Medical Information Lines * Cancer",
+    "Count": 4
+  },
+  {
+    "Need": "Mental Health Related Support  * Families/Friends of Mentally I",
+    "Count": 4
+  },
+  {
+    "Need": "Mercy Transportation",
+    "Count": 4
+  },
+  {
+    "Need": "Mobile Health Care",
+    "Count": 4
+  },
+  {
+    "Need": "Nutrition Education",
+    "Count": 4
+  },
+  {
+    "Need": "Parenting Skills Classes * Attention Deficit/Hyperactivit",
+    "Count": 4
+  },
+  {
+    "Need": "Personal Care * Adults With Disabilities * Health Issues",
+    "Count": 4
+  },
+  {
+    "Need": "Post Traumatic Stress Disorder",
+    "Count": 4
+  },
+  {
+    "Need": "Pregnancy Counseling",
+    "Count": 4
+  },
+  {
+    "Need": "Property Tax Exemption Information",
+    "Count": 4
+  },
+  {
+    "Need": "Property Tax Payment Assistance",
+    "Count": 4
+  },
+  {
+    "Need": "Refugees/Entrants/Asylees",
+    "Count": 4
+  },
+  {
+    "Need": "Relief from Removal/Other Immigration Relief",
+    "Count": 4
+  },
+  {
+    "Need": "Rent Payment Assistance * Veterans With Disabilities",
+    "Count": 4
+  },
+  {
+    "Need": "Respite Care * Alzheimer's Disease",
+    "Count": 4
+  },
+  {
+    "Need": "Restaurant Complaints",
+    "Count": 4
+  },
+  {
+    "Need": "Restaurant/Food Sanitation",
+    "Count": 4
+  },
+  {
+    "Need": "Social Security Survivors Insurance",
+    "Count": 4
+  },
+  {
+    "Need": "Specialized Information and Re * Alzheimer's Disease",
+    "Count": 4
+  },
+  {
+    "Need": "Spouse/Intimate Partner Abuse Prevention",
+    "Count": 4
+  },
+  {
+    "Need": "State Prisons",
+    "Count": 4
+  },
+  {
+    "Need": "Swimming/Swimming Lessons",
+    "Count": 4
+  },
+  {
+    "Need": "Toileting Aids",
+    "Count": 4
+  },
+  {
+    "Need": "Transitional Case/Care Managem * AIDS/HIV",
+    "Count": 4
+  },
+  {
+    "Need": "Transitional Case/Care Managem * At Risk for Homelessness",
+    "Count": 4
+  },
+  {
+    "Need": "Tuberculosis Clinics",
+    "Count": 4
+  },
+  {
+    "Need": "Unclaimed Property Assistance",
+    "Count": 4
+  },
+  {
+    "Need": "Underwear/Sleepwear",
+    "Count": 4
+  },
+  {
+    "Need": "Veteran Burial Benefits",
+    "Count": 4
+  },
+  {
+    "Need": "Water Service Connection/Repair",
+    "Count": 4
+  },
+  {
+    "Need": "Weight Related Support Groups",
+    "Count": 4
+  },
+  {
+    "Need": "Well Baby Care",
+    "Count": 4
+  },
+  {
+    "Need": "Winter Clothing Donation Programs",
+    "Count": 4
+  },
+  {
+    "Need": "Work Tools/Equipment",
+    "Count": 4
+  },
+  {
+    "Need": "Y Facilities",
+    "Count": 4
+  },
+  {
+    "Need": "Youth Enrichment Programs",
+    "Count": 4
+  },
+  {
+    "Need": "Abused Women",
+    "Count": 3
+  },
+  {
+    "Need": "Adjustment of Status to Lawful Permanent Residence",
+    "Count": 3
+  },
+  {
+    "Need": "Adoption Information/Referrals",
+    "Count": 3
+  },
+  {
+    "Need": "Adult High School Diploma Programs",
+    "Count": 3
+  },
+  {
+    "Need": "Adult Residential Facility Licensing",
+    "Count": 3
+  },
+  {
+    "Need": "Advocacy * Autism",
+    "Count": 3
+  },
+  {
+    "Need": "Advocacy * Mental Health Issues",
+    "Count": 3
+  },
+  {
+    "Need": "AIDS/HIV",
+    "Count": 3
+  },
+  {
+    "Need": "AIDS/HIV Control",
+    "Count": 3
+  },
+  {
+    "Need": "Alcohol Use Disorder Education/Prevention",
+    "Count": 3
+  },
+  {
+    "Need": "Animal Foster Care/Rescue Volunteer Opportunities",
+    "Count": 3
+  },
+  {
+    "Need": "Animal Surrender Services",
+    "Count": 3
+  },
+  {
+    "Need": "Anxiety Disorders",
+    "Count": 3
+  },
+  {
+    "Need": "Arts and Crafts Instruction",
+    "Count": 3
+  },
+  {
+    "Need": "Asthma",
+    "Count": 3
+  },
+  {
+    "Need": "Automobile Loans",
+    "Count": 3
+  },
+  {
+    "Need": "Breast Examinations",
+    "Count": 3
+  },
+  {
+    "Need": "Burning Bans",
+    "Count": 3
+  },
+  {
+    "Need": "Business Consulting Services",
+    "Count": 3
+  },
+  {
+    "Need": "Cataracts Screening",
+    "Count": 3
+  },
+  {
+    "Need": "Centers for Independent Living",
+    "Count": 3
+  },
+  {
+    "Need": "Child Care Complaints",
+    "Count": 3
+  },
+  {
+    "Need": "Child Passenger Safety Seat Inspections",
+    "Count": 3
+  },
+  {
+    "Need": "Christmas Festivals",
+    "Count": 3
+  },
+  {
+    "Need": "Clinical Trials Research Projects",
+    "Count": 3
+  },
+  {
+    "Need": "Comprehensive Job Assistance C * TANF Recipients",
+    "Count": 3
+  },
+  {
+    "Need": "Conference/Convention Facilities",
+    "Count": 3
+  },
+  {
+    "Need": "Correctional Shoes",
+    "Count": 3
+  },
+  {
+    "Need": "Dental Associations",
+    "Count": 3
+  },
+  {
+    "Need": "Disability/Rehabilitation Related Occupational Therapy",
+    "Count": 3
+  },
+  {
+    "Need": "Disaster Related Clothing/Emergency Supplies",
+    "Count": 3
+  },
+  {
+    "Need": "Divorce Counseling",
+    "Count": 3
+  },
+  {
+    "Need": "Down Syndrome",
+    "Count": 3
+  },
+  {
+    "Need": "Earned Income Credit Information",
+    "Count": 3
+  },
+  {
+    "Need": "Eating Disorders",
+    "Count": 3
+  },
+  {
+    "Need": "Educational Grants",
+    "Count": 3
+  },
+  {
+    "Need": "Emergency Veterinary Services",
+    "Count": 3
+  },
+  {
+    "Need": "Exercise Classes/Groups",
+    "Count": 3
+  },
+  {
+    "Need": "Families of Military Personnel/Veterans",
+    "Count": 3
+  },
+  {
+    "Need": "Family Crisis Shelters",
+    "Count": 3
+  },
+  {
+    "Need": "Financial Assessment Tools",
+    "Count": 3
+  },
+  {
+    "Need": "Food Facility Licensing",
+    "Count": 3
+  },
+  {
+    "Need": "Food Sorting/Packing Volunteer Opportunities",
+    "Count": 3
+  },
+  {
+    "Need": "Foster Home Licensing",
+    "Count": 3
+  },
+  {
+    "Need": "Gay/Lesbian/Bisexual/Transgender Advocacy Groups",
+    "Count": 3
+  },
+  {
+    "Need": "General Appliance Provision",
+    "Count": 3
+  },
+  {
+    "Need": "General Mental Health Informat * Families/Friends of Mentally I",
+    "Count": 3
+  },
+  {
+    "Need": "Government Consumer Protection Agencies",
+    "Count": 3
+  },
+  {
+    "Need": "Health/Disability Related Support Groups",
+    "Count": 3
+  },
+  {
+    "Need": "Hearing Aid Dispensers",
+    "Count": 3
+  },
+  {
+    "Need": "Hearing Aid Evaluations",
+    "Count": 3
+  },
+  {
+    "Need": "Hearing Screening",
+    "Count": 3
+  },
+  {
+    "Need": "Hepatitis Testing",
+    "Count": 3
+  },
+  {
+    "Need": "Home Insurance",
+    "Count": 3
+  },
+  {
+    "Need": "Homeless People",
+    "Count": 3
+  },
+  {
+    "Need": "Homeschooling",
+    "Count": 3
+  },
+  {
+    "Need": "Hospital Beds",
+    "Count": 3
+  },
+  {
+    "Need": "In Home Meal Preparation",
+    "Count": 3
+  },
+  {
+    "Need": "Inmates",
+    "Count": 3
+  },
+  {
+    "Need": "Intermediate Care Facilities",
+    "Count": 3
+  },
+  {
+    "Need": "Interpreters/Translators",
+    "Count": 3
+  },
+  {
+    "Need": "Job Search/Placement * Ex-Offenders",
+    "Count": 3
+  },
+  {
+    "Need": "Job Search/Placement * TANF Recipients",
+    "Count": 3
+  },
+  {
+    "Need": "Kidney Disease",
+    "Count": 3
+  },
+  {
+    "Need": "Law Enforcement Complaints",
+    "Count": 3
+  },
+  {
+    "Need": "Lawful Permanent Residents",
+    "Count": 3
+  },
+  {
+    "Need": "Legal Issues Education/Information",
+    "Count": 3
+  },
+  {
+    "Need": "Legal Representation * Refugees/Entrants/Asylees",
+    "Count": 3
+  },
+  {
+    "Need": "Licensed Professional Counselor Complaints",
+    "Count": 3
+  },
+  {
+    "Need": "Life Skills Education * Developmental Disabilities",
+    "Count": 3
+  },
+  {
+    "Need": "Long Term Case/Care Management * Autism",
+    "Count": 3
+  },
+  {
+    "Need": "Marriage Certificates",
+    "Count": 3
+  },
+  {
+    "Need": "Mayors Offices",
+    "Count": 3
+  },
+  {
+    "Need": "Medical Care Expense Assistanc * National Guard Personnel",
+    "Count": 3
+  },
+  {
+    "Need": "Medical Social Work",
+    "Count": 3
+  },
+  {
+    "Need": "Medicare Appeals/Complaints",
+    "Count": 3
+  },
+  {
+    "Need": "Medicare Prescription Drug Plan Enrollment",
+    "Count": 3
+  },
+  {
+    "Need": "Mental Health Facility Complaints",
+    "Count": 3
+  },
+  {
+    "Need": "Mental Health Screening",
+    "Count": 3
+  },
+  {
+    "Need": "Mobility Assistance Service Dogs",
+    "Count": 3
+  },
+  {
+    "Need": "Motor Vehicle Registration Fee Payment Assistance",
+    "Count": 3
+  },
+  {
+    "Need": "Multiple Sclerosis",
+    "Count": 3
+  },
+  {
+    "Need": "Occupational/Professional Lice * Nurses/Nursing Support Personn",
+    "Count": 3
+  },
+  {
+    "Need": "Office of the President of the United States",
+    "Count": 3
+  },
+  {
+    "Need": "Online Connection Services",
+    "Count": 3
+  },
+  {
+    "Need": "Outreach Programs",
+    "Count": 3
+  },
+  {
+    "Need": "Parent Support Groups",
+    "Count": 3
+  },
+  {
+    "Need": "Passport Cards",
+    "Count": 3
+  },
+  {
+    "Need": "Patient/Family Housing",
+    "Count": 3
+  },
+  {
+    "Need": "Physician/Surgeon Associations",
+    "Count": 3
+  },
+  {
+    "Need": "Pothole/Road Repair",
+    "Count": 3
+  },
+  {
+    "Need": "Prenatal Care * Pregnant Teens",
+    "Count": 3
+  },
+  {
+    "Need": "Prescription Expense Assistanc * Cancer",
+    "Count": 3
+  },
+  {
+    "Need": "Private Guardianship/Conservatorship Programs",
+    "Count": 3
+  },
+  {
+    "Need": "Public Internet Access Sites",
+    "Count": 3
+  },
+  {
+    "Need": "Public Utility Regulation/Deregulation",
+    "Count": 3
+  },
+  {
+    "Need": "Runaway/Youth Shelters",
+    "Count": 3
+  },
+  {
+    "Need": "School Complaints",
+    "Count": 3
+  },
+  {
+    "Need": "Service Planning and Delivery Assistance",
+    "Count": 3
+  },
+  {
+    "Need": "Sexual Assault/Incest Support Groups",
+    "Count": 3
+  },
+  {
+    "Need": "Small Business Financing",
+    "Count": 3
+  },
+  {
+    "Need": "Special Education Classes/Centers",
+    "Count": 3
+  },
+  {
+    "Need": "Specialized Information and Re * AIDS/HIV",
+    "Count": 3
+  },
+  {
+    "Need": "Street Signs",
+    "Count": 3
+  },
+  {
+    "Need": "Stroke",
+    "Count": 3
+  },
+  {
+    "Need": "Student Loans",
+    "Count": 3
+  },
+  {
+    "Need": "Substance Use Disorder Intervention Programs",
+    "Count": 3
+  },
+  {
+    "Need": "Supported Employment",
+    "Count": 3
+  },
+  {
+    "Need": "Supported Living Services for  * Health Issues",
+    "Count": 3
+  },
+  {
+    "Need": "Tax Preparer Complaints",
+    "Count": 3
+  },
+  {
+    "Need": "Telecommunication Relay Services",
+    "Count": 3
+  },
+  {
+    "Need": "Temporary Restraining Order Filing Offices",
+    "Count": 3
+  },
+  {
+    "Need": "Tenant Readiness Education Programs",
+    "Count": 3
+  },
+  {
+    "Need": "Transfer Devices",
+    "Count": 3
+  },
+  {
+    "Need": "Travel Immunizations",
+    "Count": 3
+  },
+  {
+    "Need": "Tuberculosis Control",
+    "Count": 3
+  },
+  {
+    "Need": "Volunteer Program Recruitment Assistance",
+    "Count": 3
+  },
+  {
+    "Need": "Walking Aids",
+    "Count": 3
+  },
+  {
+    "Need": "Water Heaters",
+    "Count": 3
+  },
+  {
+    "Need": "Water Resources Conservation",
+    "Count": 3
+  },
+  {
+    "Need": "Welfare Rights Assistance",
+    "Count": 3
+  },
+  {
+    "Need": "Welfare to Work Programs",
+    "Count": 3
+  },
+  {
+    "Need": "Workers Compensation",
+    "Count": 3
+  },
+  {
+    "Need": "Academic Counseling",
+    "Count": 2
+  },
+  {
+    "Need": "Adoption Counseling and Support",
+    "Count": 2
+  },
+  {
+    "Need": "Adult Day Health Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Adult Day Program Licensing",
+    "Count": 2
+  },
+  {
+    "Need": "Adult Diversion * Court Ordered Individuals",
+    "Count": 2
+  },
+  {
+    "Need": "Adult Sexual Assault Survivors",
+    "Count": 2
+  },
+  {
+    "Need": "Adult Volunteers",
+    "Count": 2
+  },
+  {
+    "Need": "Advance Medical Directives",
+    "Count": 2
+  },
+  {
+    "Need": "Advocacy * Attention Deficit/Hyperactivit",
+    "Count": 2
+  },
+  {
+    "Need": "Advocacy * Homelessness Issues",
+    "Count": 2
+  },
+  {
+    "Need": "Advocacy * Older Adults",
+    "Count": 2
+  },
+  {
+    "Need": "Airport Bus Services",
+    "Count": 2
+  },
+  {
+    "Need": "Airports",
+    "Count": 2
+  },
+  {
+    "Need": "Alcohol Use Disorder Counseling",
+    "Count": 2
+  },
+  {
+    "Need": "Alcohol Use Disorder Day Treatment",
+    "Count": 2
+  },
+  {
+    "Need": "Alcohol Use Disorder Issues",
+    "Count": 2
+  },
+  {
+    "Need": "Alcohol Use Related Recovery Homes/Halfway Houses",
+    "Count": 2
+  },
+  {
+    "Need": "Alternative Schools",
+    "Count": 2
+  },
+  {
+    "Need": "Alzheimer's Disease",
+    "Count": 2
+  },
+  {
+    "Need": "Animal Food/Supplies Donation Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Animal Lost and Found",
+    "Count": 2
+  },
+  {
+    "Need": "Animal Rescue",
+    "Count": 2
+  },
+  {
+    "Need": "Arthritis",
+    "Count": 2
+  },
+  {
+    "Need": "Asperger's Syndrome",
+    "Count": 2
+  },
+  {
+    "Need": "At Risk/Homeless Housing Relat * Veterans",
+    "Count": 2
+  },
+  {
+    "Need": "Bad Check Reporting",
+    "Count": 2
+  },
+  {
+    "Need": "Banking Services Information and Support",
+    "Count": 2
+  },
+  {
+    "Need": "Behavior Modification",
+    "Count": 2
+  },
+  {
+    "Need": "Bicycle Safety Education",
+    "Count": 2
+  },
+  {
+    "Need": "Braille Instruction",
+    "Count": 2
+  },
+  {
+    "Need": "Breastfeeding Support Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Buddy Program Volunteer Opport * Breast Cancer",
+    "Count": 2
+  },
+  {
+    "Need": "Buddy Programs * Cancer",
+    "Count": 2
+  },
+  {
+    "Need": "Building Condition Evaluation",
+    "Count": 2
+  },
+  {
+    "Need": "Building Permits",
+    "Count": 2
+  },
+  {
+    "Need": "Bullying Prevention",
+    "Count": 2
+  },
+  {
+    "Need": "Bus Fare * Veterans",
+    "Count": 2
+  },
+  {
+    "Need": "Campgrounds",
+    "Count": 2
+  },
+  {
+    "Need": "Camping Gear",
+    "Count": 2
+  },
+  {
+    "Need": "Campus Information and Visitor Services",
+    "Count": 2
+  },
+  {
+    "Need": "Caregiver/Care Receiver Support Groups",
+    "Count": 2
+  },
+  {
+    "Need": "Cell Phone Donation Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Certificates/Forms Assistance * Detainees",
+    "Count": 2
+  },
+  {
+    "Need": "Chambers of Commerce",
+    "Count": 2
+  },
+  {
+    "Need": "Charter Schools",
+    "Count": 2
+  },
+  {
+    "Need": "Child Passenger Safety Education",
+    "Count": 2
+  },
+  {
+    "Need": "Child Sexual Abuse Counseling",
+    "Count": 2
+  },
+  {
+    "Need": "Children",
+    "Count": 2
+  },
+  {
+    "Need": "Citizenship Education",
+    "Count": 2
+  },
+  {
+    "Need": "Citizenship Education * Immigrants",
+    "Count": 2
+  },
+  {
+    "Need": "Clerical Volunteer Opportunities",
+    "Count": 2
+  },
+  {
+    "Need": "Clothes Dryers",
+    "Count": 2
+  },
+  {
+    "Need": "Cognitive Behavioral Therapy",
+    "Count": 2
+  },
+  {
+    "Need": "Colleges/Universities",
+    "Count": 2
+  },
+  {
+    "Need": "Composting Facilities",
+    "Count": 2
+  },
+  {
+    "Need": "Conduct Disorder",
+    "Count": 2
+  },
+  {
+    "Need": "Consumer Law",
+    "Count": 2
+  },
+  {
+    "Need": "Continuing Education",
+    "Count": 2
+  },
+  {
+    "Need": "County Counsel",
+    "Count": 2
+  },
+  {
+    "Need": "County Executive Offices",
+    "Count": 2
+  },
+  {
+    "Need": "Deaf-Blindness",
+    "Count": 2
+  },
+  {
+    "Need": "Dementia",
+    "Count": 2
+  },
+  {
+    "Need": "Dementia Management",
+    "Count": 2
+  },
+  {
+    "Need": "Developmental Disabilities",
+    "Count": 2
+  },
+  {
+    "Need": "Diabetes Management Clinics",
+    "Count": 2
+  },
+  {
+    "Need": "Disability Rights Groups * Reading Disorder",
+    "Count": 2
+  },
+  {
+    "Need": "Disease Control Advisories",
+    "Count": 2
+  },
+  {
+    "Need": "Disease/Disability Information * Alzheimer's Disease",
+    "Count": 2
+  },
+  {
+    "Need": "Disease/Disability Information * Developmental Disabilities",
+    "Count": 2
+  },
+  {
+    "Need": "Domestic Violence Issues",
+    "Count": 2
+  },
+  {
+    "Need": "Driver License Fee Payment Ass * Veterans With Disabilities",
+    "Count": 2
+  },
+  {
+    "Need": "Drug Courts",
+    "Count": 2
+  },
+  {
+    "Need": "Drug Use Disorder Support Grou * Homeless Women",
+    "Count": 2
+  },
+  {
+    "Need": "Educational Grants * Student Financial Aid Issues",
+    "Count": 2
+  },
+  {
+    "Need": "Electronic Waste Recycling",
+    "Count": 2
+  },
+  {
+    "Need": "Employment Issues",
+    "Count": 2
+  },
+  {
+    "Need": "Errand Running/Shopping Assist * Homebound",
+    "Count": 2
+  },
+  {
+    "Need": "Escort Programs * Adults With Disabilities * Health Issues",
+    "Count": 2
+  },
+  {
+    "Need": "Eye Care Referrals",
+    "Count": 2
+  },
+  {
+    "Need": "Families/Friends of People With Alzheimer's Disease",
+    "Count": 2
+  },
+  {
+    "Need": "Family Counseling * At Risk Youth",
+    "Count": 2
+  },
+  {
+    "Need": "Family Support Centers/Outreach",
+    "Count": 2
+  },
+  {
+    "Need": "Family Violence Issues",
+    "Count": 2
+  },
+  {
+    "Need": "Federal Correctional Facilities",
+    "Count": 2
+  },
+  {
+    "Need": "Fetal Ultrasound",
+    "Count": 2
+  },
+  {
+    "Need": "Fire Prevention Information",
+    "Count": 2
+  },
+  {
+    "Need": "First Offender DUI Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Food Complaints",
+    "Count": 2
+  },
+  {
+    "Need": "Food Pantries * AIDS/HIV",
+    "Count": 2
+  },
+  {
+    "Need": "Food Safety Standards",
+    "Count": 2
+  },
+  {
+    "Need": "Gardening/Landscaping Instruction",
+    "Count": 2
+  },
+  {
+    "Need": "Gas Service Complaints",
+    "Count": 2
+  },
+  {
+    "Need": "General Counseling Services * Refugees/Entrants/Asylees",
+    "Count": 2
+  },
+  {
+    "Need": "General Medical Care",
+    "Count": 2
+  },
+  {
+    "Need": "General Youth Employment Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Governmental Contracts/Grants Offices",
+    "Count": 2
+  },
+  {
+    "Need": "Governor Offices",
+    "Count": 2
+  },
+  {
+    "Need": "Group Counseling",
+    "Count": 2
+  },
+  {
+    "Need": "Group Homes for Dependent Children",
+    "Count": 2
+  },
+  {
+    "Need": "Hazardous Materials Removal Workers",
+    "Count": 2
+  },
+  {
+    "Need": "Hazardous Waste Exchange",
+    "Count": 2
+  },
+  {
+    "Need": "Health Statistics",
+    "Count": 2
+  },
+  {
+    "Need": "Health/Disability Related Supp * Parkinson's Disease",
+    "Count": 2
+  },
+  {
+    "Need": "Hepatitis",
+    "Count": 2
+  },
+  {
+    "Need": "Holiday Related Volunteer Opportunities",
+    "Count": 2
+  },
+  {
+    "Need": "Home Glucose Monitoring Systems",
+    "Count": 2
+  },
+  {
+    "Need": "Home Rehabilitation Loans",
+    "Count": 2
+  },
+  {
+    "Need": "Homelessness  Advocacy Groups * Housing First Organizational P",
+    "Count": 2
+  },
+  {
+    "Need": "Hospital Bed Donation Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Household Goods",
+    "Count": 2
+  },
+  {
+    "Need": "Housing Issues",
+    "Count": 2
+  },
+  {
+    "Need": "HUD Approved Counseling Agencies",
+    "Count": 2
+  },
+  {
+    "Need": "Human Trafficking Hotlines",
+    "Count": 2
+  },
+  {
+    "Need": "Identity Theft Prevention",
+    "Count": 2
+  },
+  {
+    "Need": "In Home Developmental Disabilities Habilitation Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Individual Counseling * Major Depression",
+    "Count": 2
+  },
+  {
+    "Need": "Infant/Child CPR Instruction",
+    "Count": 2
+  },
+  {
+    "Need": "Inpatients",
+    "Count": 2
+  },
+  {
+    "Need": "Internet Based Crisis Intervention",
+    "Count": 2
+  },
+  {
+    "Need": "Internet Courses",
+    "Count": 2
+  },
+  {
+    "Need": "Internet Crime Reporting",
+    "Count": 2
+  },
+  {
+    "Need": "Job Search Techniques",
+    "Count": 2
+  },
+  {
+    "Need": "Job Search/Placement * Refugees/Entrants/Asylees",
+    "Count": 2
+  },
+  {
+    "Need": "Job Training Expense Assistance",
+    "Count": 2
+  },
+  {
+    "Need": "Job Training Formats * Nursing Assistants",
+    "Count": 2
+  },
+  {
+    "Need": "Juvenile Boot Camps",
+    "Count": 2
+  },
+  {
+    "Need": "Juvenile Justice Courts",
+    "Count": 2
+  },
+  {
+    "Need": "Juvenile Probation",
+    "Count": 2
+  },
+  {
+    "Need": "Kinship Care",
+    "Count": 2
+  },
+  {
+    "Need": "Kinship Caregivers",
+    "Count": 2
+  },
+  {
+    "Need": "Large Appliance Pickup/Recycling Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Lead Poisoning",
+    "Count": 2
+  },
+  {
+    "Need": "Legal Information Lines * Housing Issues",
+    "Count": 2
+  },
+  {
+    "Need": "Legal Representation * Older Adults",
+    "Count": 2
+  },
+  {
+    "Need": "Licensed Professional Counselor Referrals",
+    "Count": 2
+  },
+  {
+    "Need": "Lifeguard Training",
+    "Count": 2
+  },
+  {
+    "Need": "Local Government Complaints/Ombudsman Offices",
+    "Count": 2
+  },
+  {
+    "Need": "Local/Regional Newspapers",
+    "Count": 2
+  },
+  {
+    "Need": "Long Term Care Ombudsman Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Long Term Case/Care Management * AIDS/HIV * Cancer",
+    "Count": 2
+  },
+  {
+    "Need": "Long Term Case/Care Management * Veterans",
+    "Count": 2
+  },
+  {
+    "Need": "Low Cost Building Materials/Supplies",
+    "Count": 2
+  },
+  {
+    "Need": "Low Income/Subsidized Private  * Homeless Veterans",
+    "Count": 2
+  },
+  {
+    "Need": "Massage Therapist Complaints",
+    "Count": 2
+  },
+  {
+    "Need": "Maternity Clothing",
+    "Count": 2
+  },
+  {
+    "Need": "Medicaid Fraud Reporting",
+    "Count": 2
+  },
+  {
+    "Need": "Medication Assisted Maintenance Treatment for Opioid Addiction",
+    "Count": 2
+  },
+  {
+    "Need": "Mental Health Associations",
+    "Count": 2
+  },
+  {
+    "Need": "Music Instruction",
+    "Count": 2
+  },
+  {
+    "Need": "Native American General Assistance",
+    "Count": 2
+  },
+  {
+    "Need": "Natural Family Planning",
+    "Count": 2
+  },
+  {
+    "Need": "Natural Gas Service Connection/Repair",
+    "Count": 2
+  },
+  {
+    "Need": "Nonprofit/Philanthropic Associations",
+    "Count": 2
+  },
+  {
+    "Need": "Nonpublic Special Schools",
+    "Count": 2
+  },
+  {
+    "Need": "Older Adult Volunteers",
+    "Count": 2
+  },
+  {
+    "Need": "Orthodontics",
+    "Count": 2
+  },
+  {
+    "Need": "Orthopedic/Orthotic Devices",
+    "Count": 2
+  },
+  {
+    "Need": "Outpatient Drug Detoxification * Opiate Use Disorder",
+    "Count": 2
+  },
+  {
+    "Need": "Outreach Programs * Mexican Community",
+    "Count": 2
+  },
+  {
+    "Need": "Oxygen",
+    "Count": 2
+  },
+  {
+    "Need": "Oxygen Concentrators",
+    "Count": 2
+  },
+  {
+    "Need": "Parent Counseling",
+    "Count": 2
+  },
+  {
+    "Need": "Parent Support Groups * Children and Youth With Disabi",
+    "Count": 2
+  },
+  {
+    "Need": "Parent/Child Activity Groups",
+    "Count": 2
+  },
+  {
+    "Need": "Paternity Suits",
+    "Count": 2
+  },
+  {
+    "Need": "Peer Counseling * Mental Health Issues",
+    "Count": 2
+  },
+  {
+    "Need": "Pension Benefits Assistance",
+    "Count": 2
+  },
+  {
+    "Need": "Pets",
+    "Count": 2
+  },
+  {
+    "Need": "Pharmacies that Deliver",
+    "Count": 2
+  },
+  {
+    "Need": "Physical Disabilities",
+    "Count": 2
+  },
+  {
+    "Need": "Physical Fitness Referrals",
+    "Count": 2
+  },
+  {
+    "Need": "Poison Control",
+    "Count": 2
+  },
+  {
+    "Need": "Post Pregnancy Shelter/Transitional Housing",
+    "Count": 2
+  },
+  {
+    "Need": "Primary Schools",
+    "Count": 2
+  },
+  {
+    "Need": "Prisoner Locator Services",
+    "Count": 2
+  },
+  {
+    "Need": "Pro Bono Legal Aid Volunteer Opportunities",
+    "Count": 2
+  },
+  {
+    "Need": "Probate Petition Filing Offices",
+    "Count": 2
+  },
+  {
+    "Need": "Prosthetic Devices",
+    "Count": 2
+  },
+  {
+    "Need": "Psychiatric Day Treatment",
+    "Count": 2
+  },
+  {
+    "Need": "Psychologist Referrals",
+    "Count": 2
+  },
+  {
+    "Need": "Psychologists",
+    "Count": 2
+  },
+  {
+    "Need": "Public Access Computers/Tools",
+    "Count": 2
+  },
+  {
+    "Need": "Public Defender * Chronic/Severe Mental Illness",
+    "Count": 2
+  },
+  {
+    "Need": "Reading Disorder",
+    "Count": 2
+  },
+  {
+    "Need": "Recycled Product Sales",
+    "Count": 2
+  },
+  {
+    "Need": "Red Cross Disaster Service Centers",
+    "Count": 2
+  },
+  {
+    "Need": "Rent Payment Assistance * AIDS/HIV",
+    "Count": 2
+  },
+  {
+    "Need": "Respite Care * Mental Illness/Emotional Disab",
+    "Count": 2
+  },
+  {
+    "Need": "Reverse Mortgage Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Runaway/Homeless Youth Helplines",
+    "Count": 2
+  },
+  {
+    "Need": "School Based Teen Parent/Pregnant Teen Programs",
+    "Count": 2
+  },
+  {
+    "Need": "School District Police",
+    "Count": 2
+  },
+  {
+    "Need": "School Readiness Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Service Cost Payment Assistanc * Abortion Issues",
+    "Count": 2
+  },
+  {
+    "Need": "Sewer System Complaints",
+    "Count": 2
+  },
+  {
+    "Need": "Sidewalk/Road Corridor Use Permits",
+    "Count": 2
+  },
+  {
+    "Need": "Sign Language Interpretation",
+    "Count": 2
+  },
+  {
+    "Need": "Single Fathers",
+    "Count": 2
+  },
+  {
+    "Need": "Social Security Fraud Reporting",
+    "Count": 2
+  },
+  {
+    "Need": "Social Workers",
+    "Count": 2
+  },
+  {
+    "Need": "Special Care Inpatient Units",
+    "Count": 2
+  },
+  {
+    "Need": "Special Education Plan Development",
+    "Count": 2
+  },
+  {
+    "Need": "Specialized Information and Re * Autism",
+    "Count": 2
+  },
+  {
+    "Need": "Specialized Information and Re * Breast Cancer",
+    "Count": 2
+  },
+  {
+    "Need": "Specialized Information and Re * Families of Veterans",
+    "Count": 2
+  },
+  {
+    "Need": "Specialized Information and Re * Refugees/Entrants/Asylees",
+    "Count": 2
+  },
+  {
+    "Need": "Specialized Information and Re * Utility Issues",
+    "Count": 2
+  },
+  {
+    "Need": "Specialized Information and Re * Veterans",
+    "Count": 2
+  },
+  {
+    "Need": "State Government Agencies",
+    "Count": 2
+  },
+  {
+    "Need": "State Government Agencies * Housing Issues",
+    "Count": 2
+  },
+  {
+    "Need": "State Legislature Offices",
+    "Count": 2
+  },
+  {
+    "Need": "Summer Employment",
+    "Count": 2
+  },
+  {
+    "Need": "Tax Foreclosure Assistance",
+    "Count": 2
+  },
+  {
+    "Need": "Tax Preparation Assistance",
+    "Count": 2
+  },
+  {
+    "Need": "Taxi Services",
+    "Count": 2
+  },
+  {
+    "Need": "Teenage Parents",
+    "Count": 2
+  },
+  {
+    "Need": "Telephone Reassurance",
+    "Count": 2
+  },
+  {
+    "Need": "Tourist Information",
+    "Count": 2
+  },
+  {
+    "Need": "Traffic Bulletins/Information",
+    "Count": 2
+  },
+  {
+    "Need": "Traffic Signals",
+    "Count": 2
+  },
+  {
+    "Need": "Transitional Case/Care Managem * At Risk Youth",
+    "Count": 2
+  },
+  {
+    "Need": "Transitional Case/Care Managem * Refugees/Entrants/Asylees",
+    "Count": 2
+  },
+  {
+    "Need": "Transitional Case/Care Managem * Teenage Parents",
+    "Count": 2
+  },
+  {
+    "Need": "Transitional Housing/Shelter * Teenage Parents",
+    "Count": 2
+  },
+  {
+    "Need": "Transitional Housing/Shelter * Veterans",
+    "Count": 2
+  },
+  {
+    "Need": "Undesignated Temporary Financi * College/University Students",
+    "Count": 2
+  },
+  {
+    "Need": "Unemployment Benefits Fraud Reporting",
+    "Count": 2
+  },
+  {
+    "Need": "United States House of Representatives Offices",
+    "Count": 2
+  },
+  {
+    "Need": "Utility Issues",
+    "Count": 2
+  },
+  {
+    "Need": "Veteran Employment Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Veteran Home Loans",
+    "Count": 2
+  },
+  {
+    "Need": "Voting Records",
+    "Count": 2
+  },
+  {
+    "Need": "Water Service Complaints",
+    "Count": 2
+  },
+  {
+    "Need": "Wellness Programs",
+    "Count": 2
+  },
+  {
+    "Need": "WIOA Programs",
+    "Count": 2
+  },
+  {
+    "Need": "Workshops/Symposiums * Domestic Violence Issues",
+    "Count": 2
+  },
+  {
+    "Need": "Wound Clinics",
+    "Count": 2
+  },
+  {
+    "Need": "Abandoned Building Inspection",
+    "Count": 1
+  },
+  {
+    "Need": "Abortion Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Acting Instruction",
+    "Count": 1
+  },
+  {
+    "Need": "Adolescent/Youth Counseling * Juvenile Offenders",
+    "Count": 1
+  },
+  {
+    "Need": "Adoption and Foster/Kinship Care Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Adult Children of Alcoholics Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Adult Day Program Centers * Adults With Disabilities * Health Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Adult Parental Loss Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Adult Sex Offenders",
+    "Count": 1
+  },
+  {
+    "Need": "Advocacy * Children and Youth With Disabi",
+    "Count": 1
+  },
+  {
+    "Need": "Advocacy * Developmental Disabilities",
+    "Count": 1
+  },
+  {
+    "Need": "Advocacy * Veterans",
+    "Count": 1
+  },
+  {
+    "Need": "African American Community",
+    "Count": 1
+  },
+  {
+    "Need": "Aging/Older Adult Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "AIDS/HIV Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Air Fare",
+    "Count": 1
+  },
+  {
+    "Need": "Air Force Personnel",
+    "Count": 1
+  },
+  {
+    "Need": "Alcohol Related Crisis Intervention",
+    "Count": 1
+  },
+  {
+    "Need": "Alcohol Use Disorder",
+    "Count": 1
+  },
+  {
+    "Need": "Alcohol Use Disorder Support G * Homeless Men",
+    "Count": 1
+  },
+  {
+    "Need": "Alternative Medicine Practitioners",
+    "Count": 1
+  },
+  {
+    "Need": "Animal Euthanasia Services",
+    "Count": 1
+  },
+  {
+    "Need": "Animal Shelter Attendant Volunteer Opportunities",
+    "Count": 1
+  },
+  {
+    "Need": "Applied Behavioral Analysis",
+    "Count": 1
+  },
+  {
+    "Need": "Aquatic Therapy",
+    "Count": 1
+  },
+  {
+    "Need": "Artist Relief Funds",
+    "Count": 1
+  },
+  {
+    "Need": "Asbestos Removal",
+    "Count": 1
+  },
+  {
+    "Need": "Assistive Technology Equipment Repair",
+    "Count": 1
+  },
+  {
+    "Need": "Assistive Technology Information",
+    "Count": 1
+  },
+  {
+    "Need": "Assistive Technology Training",
+    "Count": 1
+  },
+  {
+    "Need": "At Risk/Homeless Housing Relat * AIDS/HIV",
+    "Count": 1
+  },
+  {
+    "Need": "At Risk/Homeless Housing Relat * Hepatitis",
+    "Count": 1
+  },
+  {
+    "Need": "At Risk/Homeless Housing Relat * Homeless People",
+    "Count": 1
+  },
+  {
+    "Need": "Automobile Complaints",
+    "Count": 1
+  },
+  {
+    "Need": "Automobile Insurance Payment A * Military Reserves",
+    "Count": 1
+  },
+  {
+    "Need": "Automobile Payment Assistance * Military Reserves",
+    "Count": 1
+  },
+  {
+    "Need": "Automotive Repair and Maintena * Veterans",
+    "Count": 1
+  },
+  {
+    "Need": "Baby Clothing/Diaper Donation Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Basketball",
+    "Count": 1
+  },
+  {
+    "Need": "Beer/Liquor Licenses and Permits",
+    "Count": 1
+  },
+  {
+    "Need": "Bereaved Parent Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Bicycle Repair",
+    "Count": 1
+  },
+  {
+    "Need": "Blood Pressure Monitors",
+    "Count": 1
+  },
+  {
+    "Need": "Blood Pressure Screening",
+    "Count": 1
+  },
+  {
+    "Need": "Body Image Education",
+    "Count": 1
+  },
+  {
+    "Need": "Braille and Tactile Aids",
+    "Count": 1
+  },
+  {
+    "Need": "Breast Care Centers",
+    "Count": 1
+  },
+  {
+    "Need": "Buddy Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Buddy Programs * Breast Cancer",
+    "Count": 1
+  },
+  {
+    "Need": "Buddy Programs * Families/Friends of People Wit",
+    "Count": 1
+  },
+  {
+    "Need": "Building Code Violations Consultation",
+    "Count": 1
+  },
+  {
+    "Need": "Building Materials/Supplies Donation Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Burglar Alarm Permits",
+    "Count": 1
+  },
+  {
+    "Need": "Burial Services",
+    "Count": 1
+  },
+  {
+    "Need": "Business Plan Development",
+    "Count": 1
+  },
+  {
+    "Need": "Camp Accreditation",
+    "Count": 1
+  },
+  {
+    "Need": "Car Sharing Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Career Counseling * Veterans",
+    "Count": 1
+  },
+  {
+    "Need": "Career Entrance Examination Pr * Nurses/Nursing Support Personn",
+    "Count": 1
+  },
+  {
+    "Need": "Career Entrance Examination Preparation",
+    "Count": 1
+  },
+  {
+    "Need": "Career Entrance Examinations",
+    "Count": 1
+  },
+  {
+    "Need": "Caregiver Counseling * Alzheimer's Disease",
+    "Count": 1
+  },
+  {
+    "Need": "Caregiver/Care Receiver Suppor * Alzheimer's Disease",
+    "Count": 1
+  },
+  {
+    "Need": "Caregiver/Care Receiver Suppor * Parkinson's Disease",
+    "Count": 1
+  },
+  {
+    "Need": "Carrier/Predictive Genetic Testing",
+    "Count": 1
+  },
+  {
+    "Need": "Case/Care Management Referrals * At Risk Families",
+    "Count": 1
+  },
+  {
+    "Need": "Catholic Community",
+    "Count": 1
+  },
+  {
+    "Need": "Certificates/Forms Assistance * Immigrants",
+    "Count": 1
+  },
+  {
+    "Need": "Certificates/Forms Assistance * Lawful Permanent Residents",
+    "Count": 1
+  },
+  {
+    "Need": "Certificates/Forms Assistance * Student Financial Aid Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Chemicals Information",
+    "Count": 1
+  },
+  {
+    "Need": "Chemotherapy/Radiation Therapy",
+    "Count": 1
+  },
+  {
+    "Need": "Child Abuse Counseling",
+    "Count": 1
+  },
+  {
+    "Need": "Child Abuse Medical Evaluations",
+    "Count": 1
+  },
+  {
+    "Need": "Child and Adolescent Psychiatry",
+    "Count": 1
+  },
+  {
+    "Need": "Child Development Classes",
+    "Count": 1
+  },
+  {
+    "Need": "Child Labor Laws",
+    "Count": 1
+  },
+  {
+    "Need": "Christmas Meals * Older Adults",
+    "Count": 1
+  },
+  {
+    "Need": "Chronic/Severe Mental Illness",
+    "Count": 1
+  },
+  {
+    "Need": "City Offices of Emergency Services",
+    "Count": 1
+  },
+  {
+    "Need": "City/Town Clerk Offices",
+    "Count": 1
+  },
+  {
+    "Need": "Clinical Trials Information",
+    "Count": 1
+  },
+  {
+    "Need": "Codependents Anonymous Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Comfort Items for Distressed Adults/Children",
+    "Count": 1
+  },
+  {
+    "Need": "Commercial Graffiti Removal",
+    "Count": 1
+  },
+  {
+    "Need": "Community Crime Prevention Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Community Gardening",
+    "Count": 1
+  },
+  {
+    "Need": "Community Housing Development Organizations",
+    "Count": 1
+  },
+  {
+    "Need": "Comprehensive Family Law Services",
+    "Count": 1
+  },
+  {
+    "Need": "Comprehensive Information and  * Homeless Veterans",
+    "Count": 1
+  },
+  {
+    "Need": "Computer Donation Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Construction/Building Inspectors",
+    "Count": 1
+  },
+  {
+    "Need": "Continuing Education * Nonprofit Organization Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Coroner Services",
+    "Count": 1
+  },
+  {
+    "Need": "Correctional Facility Complaints",
+    "Count": 1
+  },
+  {
+    "Need": "Correctional Ombudsman Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Cosmetics Complaints",
+    "Count": 1
+  },
+  {
+    "Need": "Counseling for Children Affected by Domestic Violence",
+    "Count": 1
+  },
+  {
+    "Need": "County Board of Supervisors Offices",
+    "Count": 1
+  },
+  {
+    "Need": "County Departments/Offices",
+    "Count": 1
+  },
+  {
+    "Need": "Court Community Service Referral Programs",
+    "Count": 1
+  },
+  {
+    "Need": "CPAP Machines",
+    "Count": 1
+  },
+  {
+    "Need": "Credit Report Dispute Assistance",
+    "Count": 1
+  },
+  {
+    "Need": "Cremation Services",
+    "Count": 1
+  },
+  {
+    "Need": "Crime Victim Accompaniment Services",
+    "Count": 1
+  },
+  {
+    "Need": "Crime Victim/Witness Counseling",
+    "Count": 1
+  },
+  {
+    "Need": "Crisis Intervention Volunteer Opportunities",
+    "Count": 1
+  },
+  {
+    "Need": "Daily Living Aid Donation Programs",
+    "Count": 1
+  },
+  {
+    "Need": "DBA Registration",
+    "Count": 1
+  },
+  {
+    "Need": "Deafness",
+    "Count": 1
+  },
+  {
+    "Need": "Debt Consolidation Service Complaints",
+    "Count": 1
+  },
+  {
+    "Need": "Debt/Overspending Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Delivery/Childbirth",
+    "Count": 1
+  },
+  {
+    "Need": "Delousing/Body Parasite Treatment",
+    "Count": 1
+  },
+  {
+    "Need": "Dementia Evaluation",
+    "Count": 1
+  },
+  {
+    "Need": "Dental Care Volunteer Opportunities",
+    "Count": 1
+  },
+  {
+    "Need": "Dental Screening",
+    "Count": 1
+  },
+  {
+    "Need": "Dentist Referrals",
+    "Count": 1
+  },
+  {
+    "Need": "Dentist/Dental Support Personnel Complaints",
+    "Count": 1
+  },
+  {
+    "Need": "Departments of Transportation/Special Districts",
+    "Count": 1
+  },
+  {
+    "Need": "Dialysis Centers",
+    "Count": 1
+  },
+  {
+    "Need": "Directory/Resource List Public * Homeless Men",
+    "Count": 1
+  },
+  {
+    "Need": "Directory/Resource List Public * Older Adults",
+    "Count": 1
+  },
+  {
+    "Need": "Directory/Resource List Publication",
+    "Count": 1
+  },
+  {
+    "Need": "Disability Awareness Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Disability Benefit Recipients",
+    "Count": 1
+  },
+  {
+    "Need": "Disability Related Parenting P * Autism Spectrum Disorders",
+    "Count": 1
+  },
+  {
+    "Need": "Disability Related Parenting Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Disaster Preparedness Partnerships",
+    "Count": 1
+  },
+  {
+    "Need": "Disaster Recovery Centers",
+    "Count": 1
+  },
+  {
+    "Need": "Disaster Related Monetary Fund Management",
+    "Count": 1
+  },
+  {
+    "Need": "Disaster Relief/Recovery Organizations",
+    "Count": 1
+  },
+  {
+    "Need": "Disaster/Emergency Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Disease/Disability Information * Neurological Impairments",
+    "Count": 1
+  },
+  {
+    "Need": "Driver License Reinstatement Assistance",
+    "Count": 1
+  },
+  {
+    "Need": "Driver License Testing Sites",
+    "Count": 1
+  },
+  {
+    "Need": "Driver Licenses * Veterans",
+    "Count": 1
+  },
+  {
+    "Need": "Drug Offenders",
+    "Count": 1
+  },
+  {
+    "Need": "Drug Use Disorder Education/Pr * Opioid Use Disorder",
+    "Count": 1
+  },
+  {
+    "Need": "Drug Use Disorder Support Grou * Homeless Men",
+    "Count": 1
+  },
+  {
+    "Need": "Dual Enrollment Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Early Literacy Development Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Eating Disorders Treatment",
+    "Count": 1
+  },
+  {
+    "Need": "Education Discrimination Assistance",
+    "Count": 1
+  },
+  {
+    "Need": "Elder Abuse Counseling",
+    "Count": 1
+  },
+  {
+    "Need": "Elder Abuse Prevention",
+    "Count": 1
+  },
+  {
+    "Need": "Elder Abuse Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Election Identification Certificates",
+    "Count": 1
+  },
+  {
+    "Need": "Electric Scooters",
+    "Count": 1
+  },
+  {
+    "Need": "Electric Service Payment Assis * Cancer",
+    "Count": 1
+  },
+  {
+    "Need": "Electric Service Payment Assis * Disability Benefit Recipients",
+    "Count": 1
+  },
+  {
+    "Need": "Electric Service Payment Assis * Single Mothers",
+    "Count": 1
+  },
+  {
+    "Need": "Emergency Communications",
+    "Count": 1
+  },
+  {
+    "Need": "Emergency Contraception",
+    "Count": 1
+  },
+  {
+    "Need": "Emergency Dental Care",
+    "Count": 1
+  },
+  {
+    "Need": "Employee Assistance Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Employee Fraud Reporting",
+    "Count": 1
+  },
+  {
+    "Need": "Employer Identification Numbers",
+    "Count": 1
+  },
+  {
+    "Need": "Endodontics",
+    "Count": 1
+  },
+  {
+    "Need": "Energy Information Lines",
+    "Count": 1
+  },
+  {
+    "Need": "Environmental Hazards Reporting",
+    "Count": 1
+  },
+  {
+    "Need": "Equestrian Therapy",
+    "Count": 1
+  },
+  {
+    "Need": "Equestrian Therapy * Abused Children",
+    "Count": 1
+  },
+  {
+    "Need": "Errand Running/Shopping Assist * AIDS/HIV",
+    "Count": 1
+  },
+  {
+    "Need": "Errand Running/Shopping Assist * Cancer",
+    "Count": 1
+  },
+  {
+    "Need": "Ethnic Oriented Multipurpose C * Jewish Community",
+    "Count": 1
+  },
+  {
+    "Need": "Evacuation Center/Shelter Assistance Volunteer Opportunities",
+    "Count": 1
+  },
+  {
+    "Need": "Event Coordination Volunteer Opportunities",
+    "Count": 1
+  },
+  {
+    "Need": "Ex-Offender Counseling",
+    "Count": 1
+  },
+  {
+    "Need": "Families With Children",
+    "Count": 1
+  },
+  {
+    "Need": "Families/Friends of Sexual Assault/Abuse Survivors",
+    "Count": 1
+  },
+  {
+    "Need": "Family Counseling * Families/Friends of Individual * Families/Friends of Individual",
+    "Count": 1
+  },
+  {
+    "Need": "Fathers",
+    "Count": 1
+  },
+  {
+    "Need": "Fax Machines",
+    "Count": 1
+  },
+  {
+    "Need": "Federal Child Tax Credit Information",
+    "Count": 1
+  },
+  {
+    "Need": "Film Production/Distribution",
+    "Count": 1
+  },
+  {
+    "Need": "Fire Control/Extinction",
+    "Count": 1
+  },
+  {
+    "Need": "Fire Safety Inspections",
+    "Count": 1
+  },
+  {
+    "Need": "Fish and Game Wardens",
+    "Count": 1
+  },
+  {
+    "Need": "Food Banks/Food Distribution Warehouses",
+    "Count": 1
+  },
+  {
+    "Need": "Food Poisoning Investigation",
+    "Count": 1
+  },
+  {
+    "Need": "Foster Care Legal Services",
+    "Count": 1
+  },
+  {
+    "Need": "Foster Homes for Dependent Children",
+    "Count": 1
+  },
+  {
+    "Need": "Foster Parent/Family Recruitment",
+    "Count": 1
+  },
+  {
+    "Need": "Friendly Telephoning",
+    "Count": 1
+  },
+  {
+    "Need": "Funding * Homeless People",
+    "Count": 1
+  },
+  {
+    "Need": "Funeral Preplanning Services",
+    "Count": 1
+  },
+  {
+    "Need": "Funeral Services",
+    "Count": 1
+  },
+  {
+    "Need": "Gang Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Gas Service Payment Assistance * National Guard Personnel",
+    "Count": 1
+  },
+  {
+    "Need": "Gay/Lesbian/Bisexual/Transgender Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Gender Identity Counseling",
+    "Count": 1
+  },
+  {
+    "Need": "General Crime Victim Assistanc * Immigrants",
+    "Count": 1
+  },
+  {
+    "Need": "General Dentistry * AIDS/HIV",
+    "Count": 1
+  },
+  {
+    "Need": "General Dentistry * Veterans",
+    "Count": 1
+  },
+  {
+    "Need": "General Disaster Information",
+    "Count": 1
+  },
+  {
+    "Need": "General Health Education Progr * Hispanic/Latino Community",
+    "Count": 1
+  },
+  {
+    "Need": "General Mental Health Informat * Mental Illness/Emotional Disab",
+    "Count": 1
+  },
+  {
+    "Need": "General Obstetrics",
+    "Count": 1
+  },
+  {
+    "Need": "General Ophthalmology",
+    "Count": 1
+  },
+  {
+    "Need": "General Physical Examinations * Children",
+    "Count": 1
+  },
+  {
+    "Need": "General Relief",
+    "Count": 1
+  },
+  {
+    "Need": "General Sexuality/Reproductive Health Education",
+    "Count": 1
+  },
+  {
+    "Need": "General Yard Work * AIDS/HIV",
+    "Count": 1
+  },
+  {
+    "Need": "General Yard Work * Older Adults",
+    "Count": 1
+  },
+  {
+    "Need": "Geriatric Counseling",
+    "Count": 1
+  },
+  {
+    "Need": "Geriatric Medicine",
+    "Count": 1
+  },
+  {
+    "Need": "Geriatric Psychiatry",
+    "Count": 1
+  },
+  {
+    "Need": "Glasses Donation Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Glaucoma Screening",
+    "Count": 1
+  },
+  {
+    "Need": "Grandparent Rights",
+    "Count": 1
+  },
+  {
+    "Need": "Guardians ad Litem",
+    "Count": 1
+  },
+  {
+    "Need": "Gymnasiums",
+    "Count": 1
+  },
+  {
+    "Need": "Hard of Hearing",
+    "Count": 1
+  },
+  {
+    "Need": "Health Care Discount Enrollment Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Health Care Discrimination Ass * AIDS/HIV",
+    "Count": 1
+  },
+  {
+    "Need": "Health Care Discrimination Assistance",
+    "Count": 1
+  },
+  {
+    "Need": "Health/Disability Related Supp * Breast Cancer",
+    "Count": 1
+  },
+  {
+    "Need": "Hearing Augmentation Aid Donation Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Hearing Loss",
+    "Count": 1
+  },
+  {
+    "Need": "Heart Disease",
+    "Count": 1
+  },
+  {
+    "Need": "Hemophilia",
+    "Count": 1
+  },
+  {
+    "Need": "Hispanic/Latino Community",
+    "Count": 1
+  },
+  {
+    "Need": "Historic Landmark Preservation",
+    "Count": 1
+  },
+  {
+    "Need": "Historical Societies",
+    "Count": 1
+  },
+  {
+    "Need": "Holiday Cash Grants",
+    "Count": 1
+  },
+  {
+    "Need": "Holiday Gifts/Toys * Older Adults",
+    "Count": 1
+  },
+  {
+    "Need": "Home Based Mental Health Services",
+    "Count": 1
+  },
+  {
+    "Need": "Home Building Information",
+    "Count": 1
+  },
+  {
+    "Need": "Home Health Aide Services * Physical Disabilities",
+    "Count": 1
+  },
+  {
+    "Need": "Home Health Care",
+    "Count": 1
+  },
+  {
+    "Need": "Home Rehabilitation Grants * Physical Disabilities",
+    "Count": 1
+  },
+  {
+    "Need": "Home Sanitation",
+    "Count": 1
+  },
+  {
+    "Need": "Home Visit Volunteer Opportunities",
+    "Count": 1
+  },
+  {
+    "Need": "Home/Community Care Financing  * Intellectual Disabilities",
+    "Count": 1
+  },
+  {
+    "Need": "Homeless Drop In Centers",
+    "Count": 1
+  },
+  {
+    "Need": "Homeless Transportation Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Homelessness  Advocacy Groups * Homelessness Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Homesteading Assistance",
+    "Count": 1
+  },
+  {
+    "Need": "Homework Help Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Hospice Facilities * AIDS/HIV",
+    "Count": 1
+  },
+  {
+    "Need": "Hospital Based Outpatient Services",
+    "Count": 1
+  },
+  {
+    "Need": "Household Tools/Equipment",
+    "Count": 1
+  },
+  {
+    "Need": "Housing Advocacy Groups",
+    "Count": 1
+  },
+  {
+    "Need": "HPV Immunizations",
+    "Count": 1
+  },
+  {
+    "Need": "Immigration Detention Centers",
+    "Count": 1
+  },
+  {
+    "Need": "In Person Assister Programs * AIDS/HIV",
+    "Count": 1
+  },
+  {
+    "Need": "Incorporation Assistance * Nonprofit Organization Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Independent Living Skills Inst * Mental Illness/Emotional Disab",
+    "Count": 1
+  },
+  {
+    "Need": "Individual Counseling * Musicians",
+    "Count": 1
+  },
+  {
+    "Need": "Individual Development Accounts",
+    "Count": 1
+  },
+  {
+    "Need": "Infants/Toddlers",
+    "Count": 1
+  },
+  {
+    "Need": "Informal Caregivers",
+    "Count": 1
+  },
+  {
+    "Need": "Inpatient Rehabilitation * Neurological Impairments",
+    "Count": 1
+  },
+  {
+    "Need": "Insurance Fraud Reporting",
+    "Count": 1
+  },
+  {
+    "Need": "International Travel Advisories",
+    "Count": 1
+  },
+  {
+    "Need": "Job Corps",
+    "Count": 1
+  },
+  {
+    "Need": "Job Information * Ex-Offenders",
+    "Count": 1
+  },
+  {
+    "Need": "Job Information * TANF Recipients",
+    "Count": 1
+  },
+  {
+    "Need": "Job Interview Training",
+    "Count": 1
+  },
+  {
+    "Need": "Job Readiness * Ex-Offenders",
+    "Count": 1
+  },
+  {
+    "Need": "Job Retraining * Laid Off Workers",
+    "Count": 1
+  },
+  {
+    "Need": "Job Search Resource Centers * Older Adults",
+    "Count": 1
+  },
+  {
+    "Need": "Job Training Formats * Electricians",
+    "Count": 1
+  },
+  {
+    "Need": "Job Training Formats * Heating/Air Conditioning/Refri",
+    "Count": 1
+  },
+  {
+    "Need": "Junk Mail/Email Opt Out Assistance",
+    "Count": 1
+  },
+  {
+    "Need": "Jury Selection",
+    "Count": 1
+  },
+  {
+    "Need": "Juvenile Delinquency Prevention",
+    "Count": 1
+  },
+  {
+    "Need": "Juvenile Offenders",
+    "Count": 1
+  },
+  {
+    "Need": "Kitchen Modification Services",
+    "Count": 1
+  },
+  {
+    "Need": "Land Deeds/Titles",
+    "Count": 1
+  },
+  {
+    "Need": "Land Records",
+    "Count": 1
+  },
+  {
+    "Need": "Laws/Statutes Copies",
+    "Count": 1
+  },
+  {
+    "Need": "Learning Disabilities",
+    "Count": 1
+  },
+  {
+    "Need": "Legal Counseling * AIDS/HIV",
+    "Count": 1
+  },
+  {
+    "Need": "Legal Counseling * Nonprofit Organization Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Legal Information Lines * Adult Sexual Assault Survivors",
+    "Count": 1
+  },
+  {
+    "Need": "Legal Representation * Detainees",
+    "Count": 1
+  },
+  {
+    "Need": "Legal Representation * Immigrants",
+    "Count": 1
+  },
+  {
+    "Need": "Licensed Vocational Nurses",
+    "Count": 1
+  },
+  {
+    "Need": "Life Skills Education * Foster Children",
+    "Count": 1
+  },
+  {
+    "Need": "Literacy Volunteer Opportunities",
+    "Count": 1
+  },
+  {
+    "Need": "Loan Counseling",
+    "Count": 1
+  },
+  {
+    "Need": "Local Bicycle Transportation",
+    "Count": 1
+  },
+  {
+    "Need": "Local Rail Services",
+    "Count": 1
+  },
+  {
+    "Need": "Long Term Care Insurance",
+    "Count": 1
+  },
+  {
+    "Need": "Long Term Case/Care Management * Alzheimer's Disease",
+    "Count": 1
+  },
+  {
+    "Need": "Long Term Case/Care Management * Asperger's Syndrome",
+    "Count": 1
+  },
+  {
+    "Need": "Long Term Case/Care Management * Bipolar Disorder",
+    "Count": 1
+  },
+  {
+    "Need": "Long Term Case/Care Management * Cancer * Hemophilia * Leukemia",
+    "Count": 1
+  },
+  {
+    "Need": "Long Term Case/Care Management * Developmental Disabilities * Functional Disabilities",
+    "Count": 1
+  },
+  {
+    "Need": "Long Term Case/Care Management * Families of Military Personnel",
+    "Count": 1
+  },
+  {
+    "Need": "Long Term Case/Care Management * Major Depression",
+    "Count": 1
+  },
+  {
+    "Need": "Long Term Case/Care Management * Schizophrenia",
+    "Count": 1
+  },
+  {
+    "Need": "Lost and Found",
+    "Count": 1
+  },
+  {
+    "Need": "Low Interest Loans",
+    "Count": 1
+  },
+  {
+    "Need": "Lung Disease",
+    "Count": 1
+  },
+  {
+    "Need": "Magnetic Resonance Imaging",
+    "Count": 1
+  },
+  {
+    "Need": "Manufactured/Mobile Home Park Inspection",
+    "Count": 1
+  },
+  {
+    "Need": "Marriage and Relationships Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Mass Care Shelters",
+    "Count": 1
+  },
+  {
+    "Need": "Maternal and Fetal Medicine",
+    "Count": 1
+  },
+  {
+    "Need": "Meal Delivery Volunteer Opportunities",
+    "Count": 1
+  },
+  {
+    "Need": "Meal Preparation/Serving Volunteer Opportunities",
+    "Count": 1
+  },
+  {
+    "Need": "Mechanical Permits",
+    "Count": 1
+  },
+  {
+    "Need": "Mediation",
+    "Count": 1
+  },
+  {
+    "Need": "Medicaid Information/Counseling",
+    "Count": 1
+  },
+  {
+    "Need": "Medical Appointments Transport * Functional Disabilities",
+    "Count": 1
+  },
+  {
+    "Need": "Medical Appointments Transport * Medicaid Recipients",
+    "Count": 1
+  },
+  {
+    "Need": "Medical Appointments Transport * People With Disabilities/Healt",
+    "Count": 1
+  },
+  {
+    "Need": "Medical Care Expense Assistanc * Youth",
+    "Count": 1
+  },
+  {
+    "Need": "Medical Information Lines * Multiple Sclerosis",
+    "Count": 1
+  },
+  {
+    "Need": "Medication Assisted Maintenance Treatment for Opioid Use Disorders",
+    "Count": 1
+  },
+  {
+    "Need": "Meeting Space",
+    "Count": 1
+  },
+  {
+    "Need": "Mental Health Halfway Houses",
+    "Count": 1
+  },
+  {
+    "Need": "Mental Health Related Support  * Chronic/Severe Mental Illness",
+    "Count": 1
+  },
+  {
+    "Need": "Mental Health Related Support  * Perinatal/Postpartum Depressio",
+    "Count": 1
+  },
+  {
+    "Need": "Mercury Products/Materials Recycling",
+    "Count": 1
+  },
+  {
+    "Need": "Minority Business Development",
+    "Count": 1
+  },
+  {
+    "Need": "Mobile Dental Care",
+    "Count": 1
+  },
+  {
+    "Need": "Monitored Child Visitation Exchange",
+    "Count": 1
+  },
+  {
+    "Need": "Monitoring Equipment Donation Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Mortgage Payment Assistance * National Guard Personnel",
+    "Count": 1
+  },
+  {
+    "Need": "Multiple Disabilities",
+    "Count": 1
+  },
+  {
+    "Need": "Muscular Dystrophy",
+    "Count": 1
+  },
+  {
+    "Need": "Musicians",
+    "Count": 1
+  },
+  {
+    "Need": "Needle Exchange/Distribution Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Neglected Children",
+    "Count": 1
+  },
+  {
+    "Need": "Neurological Impairments",
+    "Count": 1
+  },
+  {
+    "Need": "Neurology * Amyotrophic Lateral Sclerosis",
+    "Count": 1
+  },
+  {
+    "Need": "New Driver Training",
+    "Count": 1
+  },
+  {
+    "Need": "Nighttime Child Care",
+    "Count": 1
+  },
+  {
+    "Need": "Nonprofit Corporation Development",
+    "Count": 1
+  },
+  {
+    "Need": "Nonpublic Special Schools * Learning Disabilities",
+    "Count": 1
+  },
+  {
+    "Need": "Nurse Complaints",
+    "Count": 1
+  },
+  {
+    "Need": "Nutrition Education * Food Stamps/SNAP Recipients",
+    "Count": 1
+  },
+  {
+    "Need": "Occupation Specific Job Training",
+    "Count": 1
+  },
+  {
+    "Need": "Online Databases",
+    "Count": 1
+  },
+  {
+    "Need": "Open Pharmacies",
+    "Count": 1
+  },
+  {
+    "Need": "Opiate Use Disorder",
+    "Count": 1
+  },
+  {
+    "Need": "Orthopedic Surgery",
+    "Count": 1
+  },
+  {
+    "Need": "Outpatient Clinic Complaints",
+    "Count": 1
+  },
+  {
+    "Need": "Outpatients",
+    "Count": 1
+  },
+  {
+    "Need": "Outreach Programs * AIDS/HIV",
+    "Count": 1
+  },
+  {
+    "Need": "Overspenders",
+    "Count": 1
+  },
+  {
+    "Need": "Paratransit Driver Volunteer Opportunities",
+    "Count": 1
+  },
+  {
+    "Need": "Parent/Infant Exercise Classes",
+    "Count": 1
+  },
+  {
+    "Need": "Parenting Helplines",
+    "Count": 1
+  },
+  {
+    "Need": "Parenting Materials",
+    "Count": 1
+  },
+  {
+    "Need": "Parenting Skills Classes * Pregnant Teens",
+    "Count": 1
+  },
+  {
+    "Need": "Parents Without Custody",
+    "Count": 1
+  },
+  {
+    "Need": "Parkinson's Disease",
+    "Count": 1
+  },
+  {
+    "Need": "Parole Related Crime Victim Services",
+    "Count": 1
+  },
+  {
+    "Need": "Parolees",
+    "Count": 1
+  },
+  {
+    "Need": "Pastoral Counseling/Chaplaincy Services",
+    "Count": 1
+  },
+  {
+    "Need": "Patient Rights Assistance",
+    "Count": 1
+  },
+  {
+    "Need": "Pediatric Allergy Specialty",
+    "Count": 1
+  },
+  {
+    "Need": "Peer Counseling * Cancer",
+    "Count": 1
+  },
+  {
+    "Need": "Perinatal Alcohol Use Disorder Treatment",
+    "Count": 1
+  },
+  {
+    "Need": "Personal Care * Health Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Personal Care * Older Adults",
+    "Count": 1
+  },
+  {
+    "Need": "Personal Care Aides",
+    "Count": 1
+  },
+  {
+    "Need": "Pertussis",
+    "Count": 1
+  },
+  {
+    "Need": "Pet Assisted Therapy",
+    "Count": 1
+  },
+  {
+    "Need": "Pet Boarding/Sitting Services",
+    "Count": 1
+  },
+  {
+    "Need": "Pet Cemeteries",
+    "Count": 1
+  },
+  {
+    "Need": "Physical Activity and Fitness Education/Promotion",
+    "Count": 1
+  },
+  {
+    "Need": "Physical Medicine and Rehabilitation",
+    "Count": 1
+  },
+  {
+    "Need": "Physical Therapists",
+    "Count": 1
+  },
+  {
+    "Need": "Play Therapy",
+    "Count": 1
+  },
+  {
+    "Need": "Police/Community Relations Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Pool Sanitation",
+    "Count": 1
+  },
+  {
+    "Need": "Postabortion Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Postpartum Care",
+    "Count": 1
+  },
+  {
+    "Need": "Pregnant Teens",
+    "Count": 1
+  },
+  {
+    "Need": "Premarital Counseling",
+    "Count": 1
+  },
+  {
+    "Need": "Prescription Expense Assistanc * AIDS/HIV",
+    "Count": 1
+  },
+  {
+    "Need": "Pretrial Service Agencies",
+    "Count": 1
+  },
+  {
+    "Need": "Private Day Schools",
+    "Count": 1
+  },
+  {
+    "Need": "Private Therapy Practices",
+    "Count": 1
+  },
+  {
+    "Need": "Probation/Parole Violations Sanctions Centers",
+    "Count": 1
+  },
+  {
+    "Need": "Propane/Home Heating Oil Suppliers",
+    "Count": 1
+  },
+  {
+    "Need": "Proposal/Grant Writing Services",
+    "Count": 1
+  },
+  {
+    "Need": "Prostate Cancer",
+    "Count": 1
+  },
+  {
+    "Need": "Psychiatric Rehabilitation",
+    "Count": 1
+  },
+  {
+    "Need": "Psychological Associations",
+    "Count": 1
+  },
+  {
+    "Need": "Psychotherapy/Psychoanalysis",
+    "Count": 1
+  },
+  {
+    "Need": "Public Charities",
+    "Count": 1
+  },
+  {
+    "Need": "Public Defender * Juvenile Offenders",
+    "Count": 1
+  },
+  {
+    "Need": "Public Special Schools",
+    "Count": 1
+  },
+  {
+    "Need": "Rapid Re-Housing Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Real Estate Sales Personnel",
+    "Count": 1
+  },
+  {
+    "Need": "Realtor Complaints",
+    "Count": 1
+  },
+  {
+    "Need": "Regional Economic Development",
+    "Count": 1
+  },
+  {
+    "Need": "Rehabilitative/Habilitative Medicine Associations",
+    "Count": 1
+  },
+  {
+    "Need": "Relationship Workshops",
+    "Count": 1
+  },
+  {
+    "Need": "Relocation Assistance",
+    "Count": 1
+  },
+  {
+    "Need": "Remedial Reading",
+    "Count": 1
+  },
+  {
+    "Need": "Rent Payment Assistance * Cancer",
+    "Count": 1
+  },
+  {
+    "Need": "Rent Payment Assistance * Homeless People",
+    "Count": 1
+  },
+  {
+    "Need": "Residential Camps",
+    "Count": 1
+  },
+  {
+    "Need": "Residential Lift Equipment",
+    "Count": 1
+  },
+  {
+    "Need": "Respite Care * Children and Youth With Disabi",
+    "Count": 1
+  },
+  {
+    "Need": "Return to Education Support",
+    "Count": 1
+  },
+  {
+    "Need": "Rights Counseling for Undocumented People",
+    "Count": 1
+  },
+  {
+    "Need": "Road Closures Bulletins",
+    "Count": 1
+  },
+  {
+    "Need": "Roadside Landscape Maintenance",
+    "Count": 1
+  },
+  {
+    "Need": "Rooming/Boarding Houses * Individuals Recovering from a",
+    "Count": 1
+  },
+  {
+    "Need": "Rooming/Boarding Houses * Men",
+    "Count": 1
+  },
+  {
+    "Need": "Rooming/Boarding Houses * Older Adults * Women",
+    "Count": 1
+  },
+  {
+    "Need": "Rooming/Boarding Houses * Single Women",
+    "Count": 1
+  },
+  {
+    "Need": "RSVP Program",
+    "Count": 1
+  },
+  {
+    "Need": "Runaway Prevention Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Safer Sex Education",
+    "Count": 1
+  },
+  {
+    "Need": "Sales Tax Information",
+    "Count": 1
+  },
+  {
+    "Need": "Santa Claus Appearances",
+    "Count": 1
+  },
+  {
+    "Need": "Schizophrenia",
+    "Count": 1
+  },
+  {
+    "Need": "Scholarships * Mental Health Issues",
+    "Count": 1
+  },
+  {
+    "Need": "School Based Integrated Services",
+    "Count": 1
+  },
+  {
+    "Need": "School to Adult Life Transition Services",
+    "Count": 1
+  },
+  {
+    "Need": "Self Esteem Workshops",
+    "Count": 1
+  },
+  {
+    "Need": "Senior Center Bus Services",
+    "Count": 1
+  },
+  {
+    "Need": "Separation/Divorce Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Sex Offender Registration/Community Notification",
+    "Count": 1
+  },
+  {
+    "Need": "Sexual Assault Hotlines",
+    "Count": 1
+  },
+  {
+    "Need": "Sexual Assault Shelters",
+    "Count": 1
+  },
+  {
+    "Need": "Sexual Orientation Counseling",
+    "Count": 1
+  },
+  {
+    "Need": "Sexual/Love Addiction Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Sexually Transmitted Disease",
+    "Count": 1
+  },
+  {
+    "Need": "Shoes * Children",
+    "Count": 1
+  },
+  {
+    "Need": "Shredders",
+    "Count": 1
+  },
+  {
+    "Need": "Sidewalk Repair",
+    "Count": 1
+  },
+  {
+    "Need": "Sign Language Instruction",
+    "Count": 1
+  },
+  {
+    "Need": "Small Business Health Options Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Smoking Addiction Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Smoking/Nicotine Addiction Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Soccer",
+    "Count": 1
+  },
+  {
+    "Need": "Social Phobia",
+    "Count": 1
+  },
+  {
+    "Need": "Special Interest Camps",
+    "Count": 1
+  },
+  {
+    "Need": "Specialized Information and Re * Caregiver Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Specialized Information and Re * Ex-Offenders",
+    "Count": 1
+  },
+  {
+    "Need": "Specialized Information and Re * Homebuyers",
+    "Count": 1
+  },
+  {
+    "Need": "Specialized Information and Re * Housing Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Specialized Information and Re * Informal Caregivers",
+    "Count": 1
+  },
+  {
+    "Need": "Specialized Information and Re * Musicians",
+    "Count": 1
+  },
+  {
+    "Need": "Specialized Information and Re * Native American Community",
+    "Count": 1
+  },
+  {
+    "Need": "Specialized Information and Re * People At Risk of Foreclosure",
+    "Count": 1
+  },
+  {
+    "Need": "Specialized Information and Re * Wildlife Safety Education",
+    "Count": 1
+  },
+  {
+    "Need": "Specialized Telecommunications Equipment",
+    "Count": 1
+  },
+  {
+    "Need": "Spinal Cord Rehabilitation",
+    "Count": 1
+  },
+  {
+    "Need": "Spouse/Intimate Partner Abusers",
+    "Count": 1
+  },
+  {
+    "Need": "State Institutions for Individuals With Developmental Disabilities",
+    "Count": 1
+  },
+  {
+    "Need": "State Police",
+    "Count": 1
+  },
+  {
+    "Need": "State/Local Health Insurance Information/Counseling",
+    "Count": 1
+  },
+  {
+    "Need": "Sterilization",
+    "Count": 1
+  },
+  {
+    "Need": "Stoves",
+    "Count": 1
+  },
+  {
+    "Need": "Street Cleaning",
+    "Count": 1
+  },
+  {
+    "Need": "Street Flooding/Drainage",
+    "Count": 1
+  },
+  {
+    "Need": "Street Vendor Permits",
+    "Count": 1
+  },
+  {
+    "Need": "Stroke Rehabilitation",
+    "Count": 1
+  },
+  {
+    "Need": "Student Disability Services",
+    "Count": 1
+  },
+  {
+    "Need": "Student Financial Aid Offices",
+    "Count": 1
+  },
+  {
+    "Need": "Student Health Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Students With Disabilities",
+    "Count": 1
+  },
+  {
+    "Need": "Subject Specific Public Awaren * Children's Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Subject Specific Public Awareness/Education",
+    "Count": 1
+  },
+  {
+    "Need": "Substance Use Disorder Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Substance Use Disorder Referrals",
+    "Count": 1
+  },
+  {
+    "Need": "Substance Use Disorder Service Provider Complaints",
+    "Count": 1
+  },
+  {
+    "Need": "Substance Use Disorders",
+    "Count": 1
+  },
+  {
+    "Need": "Suicide Prevention Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Supervised Living for Older Yo * Females",
+    "Count": 1
+  },
+  {
+    "Need": "Support Orders",
+    "Count": 1
+  },
+  {
+    "Need": "Supported Living Services for  * Deaf-Blindness",
+    "Count": 1
+  },
+  {
+    "Need": "TANF Recipients",
+    "Count": 1
+  },
+  {
+    "Need": "Tattoo Removal",
+    "Count": 1
+  },
+  {
+    "Need": "Tax Preparation Software",
+    "Count": 1
+  },
+  {
+    "Need": "Taxpayer Advocate Services",
+    "Count": 1
+  },
+  {
+    "Need": "Technical/Trade Schools",
+    "Count": 1
+  },
+  {
+    "Need": "Telephone Book Recycling",
+    "Count": 1
+  },
+  {
+    "Need": "Telephone Facilities",
+    "Count": 1
+  },
+  {
+    "Need": "Telephone Service Payment Assi * AIDS/HIV",
+    "Count": 1
+  },
+  {
+    "Need": "Terminal Illness",
+    "Count": 1
+  },
+  {
+    "Need": "Test Proctoring",
+    "Count": 1
+  },
+  {
+    "Need": "Thyroid Function Tests",
+    "Count": 1
+  },
+  {
+    "Need": "Time/Temperature/Weather Information Lines",
+    "Count": 1
+  },
+  {
+    "Need": "Tiny Tots",
+    "Count": 1
+  },
+  {
+    "Need": "Towing Service Complaints",
+    "Count": 1
+  },
+  {
+    "Need": "Toy/Game Donation Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Traffic Ticket Fine Collection Offices",
+    "Count": 1
+  },
+  {
+    "Need": "Transitional Case/Care Managem * Homeless Veterans",
+    "Count": 1
+  },
+  {
+    "Need": "Transitional Case/Care Managem * Mental Health Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Transitional Case/Care Managem * Single Mothers",
+    "Count": 1
+  },
+  {
+    "Need": "Transitional Housing/Shelter * Dual Diagnosis",
+    "Count": 1
+  },
+  {
+    "Need": "Transitional Residential Subst * Males",
+    "Count": 1
+  },
+  {
+    "Need": "Transportation Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Trauma Care",
+    "Count": 1
+  },
+  {
+    "Need": "Travel Training for Older Adults/People With Disabilities",
+    "Count": 1
+  },
+  {
+    "Need": "Truancy Counseling",
+    "Count": 1
+  },
+  {
+    "Need": "Tuberculosis",
+    "Count": 1
+  },
+  {
+    "Need": "Tuition Assistance",
+    "Count": 1
+  },
+  {
+    "Need": "Undesignated Home Barrier Remo * Physical Disabilities",
+    "Count": 1
+  },
+  {
+    "Need": "Undesignated Temporary Financi * Cancer",
+    "Count": 1
+  },
+  {
+    "Need": "Undesignated Temporary Financi * Sickle Cell Anemia",
+    "Count": 1
+  },
+  {
+    "Need": "Undesignated Temporary Financi * Veterans",
+    "Count": 1
+  },
+  {
+    "Need": "Unemployed Individuals",
+    "Count": 1
+  },
+  {
+    "Need": "Urgent Care Centers",
+    "Count": 1
+  },
+  {
+    "Need": "Vacuum Cleaners",
+    "Count": 1
+  },
+  {
+    "Need": "Veteran Education Benefits",
+    "Count": 1
+  },
+  {
+    "Need": "Veteran Reintegration Counseling",
+    "Count": 1
+  },
+  {
+    "Need": "Victims of Accidents Caused by Impaired Drivers",
+    "Count": 1
+  },
+  {
+    "Need": "Visiting Physician Services",
+    "Count": 1
+  },
+  {
+    "Need": "Visual Artists",
+    "Count": 1
+  },
+  {
+    "Need": "Volunteer Recruitment/Placemen * Older Adults",
+    "Count": 1
+  },
+  {
+    "Need": "Voting Rights Protection",
+    "Count": 1
+  },
+  {
+    "Need": "Walking Programs",
+    "Count": 1
+  },
+  {
+    "Need": "Water Storage/Distribution Infrastructure Services",
+    "Count": 1
+  },
+  {
+    "Need": "Watershed Conservation",
+    "Count": 1
+  },
+  {
+    "Need": "Weather Advisories",
+    "Count": 1
+  },
+  {
+    "Need": "Websites * Drug Use Disorder Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Weed Abatement/Brush Control",
+    "Count": 1
+  },
+  {
+    "Need": "Weight Loss Assistance",
+    "Count": 1
+  },
+  {
+    "Need": "West Nile Virus Control",
+    "Count": 1
+  },
+  {
+    "Need": "Widow/Widower Support Groups",
+    "Count": 1
+  },
+  {
+    "Need": "Work Registration",
+    "Count": 1
+  },
+  {
+    "Need": "Workers Compensation Benefits Assistance",
+    "Count": 1
+  },
+  {
+    "Need": "Workshops/Symposiums",
+    "Count": 1
+  },
+  {
+    "Need": "Workshops/Symposiums * First Time Homeowners",
+    "Count": 1
+  },
+  {
+    "Need": "Workshops/Symposiums * Human/Social Services Issues",
+    "Count": 1
+  },
+  {
+    "Need": "Workshops/Symposiums * Older Adults",
+    "Count": 1
+  },
+  {
+    "Need": "Worship Services",
+    "Count": 1
+  },
+  {
+    "Need": "Yard Waste Recycling",
+    "Count": 1
+  },
+  {
+    "Need": "Yoga",
+    "Count": 1
+  },
+  {
+    "Need": "Youth Centers",
+    "Count": 1
+  },
+  {
+    "Need": "Youth Community Service Programs",
+    "Count": 1
+  },
+  {
+    "Need": "(blank)",
+    "Count": ""
+  }
+]
