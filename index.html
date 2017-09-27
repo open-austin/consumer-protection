@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Consumer Protection</title>
+		<script type="text/javascript" src="https://d3js.org/d3.v4.js"></script>
+	</head>
+	<body>
+		<script type="text/javascript">
+			var rowConverter = function(d) {
+				return {
+					CountOfNeed: parseFloat(d.CountOfNeed),
+					Need: d.Need
+				};
+			}
+			
+			// var testData = ['new', 'test'];
+
+			var dataset;
+
+			d3.csv("data/csv/tc_211_finiancial_need_counts_by_need.csv", rowConverter, function(csv) {
+					dataset = csv;
+					// console.log(dataset);
+
+					var w = 1000;
+					var h = 500;
+					var barPadding = 1;
+					var xPadding = 50;
+					var yPadding = 10;
+
+					// create svg element
+					var svg = d3.select('body')
+											.append('svg')
+											.attr('width', w)
+											.attr('height', h);
+
+					var xScale = d3.scaleBand()
+												.domain(d3.range(dataset.length))
+												.rangeRound([0, w])
+												.paddingInner(0.05);
+
+					var yScale = d3.scaleLinear()
+												.domain([0, d3.max(dataset, function(d) { return d.CountOfNeed })])
+												.range([h - yPadding, yPadding])
+												//.nice(); // makes the final numbers used human-friendly
+
+					var yAxis = d3.axisLeft()
+												.scale(yScale)
+												.ticks(10);
+					// bars
+					svg.selectAll('rect')
+						.data(dataset)
+						.enter()
+						.append('rect')
+						.attr('x', function(d, i) {
+							return xScale(i);
+						})
+						.attr('y', function(d) {
+							// console.log(h);
+							// console.log(d.CountOfNeed);
+							return yScale(d.CountOfNeed);
+						})
+						.attr('width', xScale.bandwidth())
+						.attr('height', function(d) {
+							return h - yScale(d.CountOfNeed) - yPadding;
+						})
+						.attr('fill', 'teal')
+						// prints bar value and name to console when clicked
+						.on('click', function(d) {
+							console.log(d);
+						})
+
+					// axis 	
+					svg.append('g')
+						.attr('class', 'axis')
+						.attr('transform', 'translate(' + xPadding + ',0)')
+						.call(yAxis);
+
+				});
+
+// should be after d3.csv via chaining
+/*
+			console.log('dataset: ' + dataset);
+
+			d3.select('body')
+				.selectAll('p')
+				.data(testData)
+				.enter()
+				.append('p')
+				.text(function(d) {return d;});
+*/
+		</script>
+	</body>
+</html>
